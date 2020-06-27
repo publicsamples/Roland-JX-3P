@@ -1,0 +1,124 @@
+// this file was generated from JX Joanna.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1025 sample=../Audio/JX Joanna/0-44G6.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=779 end=424560 sample=../Audio/JX Joanna/0-LP75.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1136 end=422514 sample=../Audio/JX Joanna/0-S84N.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=721 sample=../Audio/JX Joanna/0-ZMTI.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=846 end=416336 sample=../Audio/JX Joanna/0-59C3.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=785 end=416430 sample=../Audio/JX Joanna/0-SQRF.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1138 end=417668 sample=../Audio/JX Joanna/0-8GAY.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=769 sample=../Audio/JX Joanna/0-K6KB.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=976 end=419301 sample=../Audio/JX Joanna/0-U8IN.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1062 end=416186 sample=../Audio/JX Joanna/0-X85B.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=907 end=417969 sample=../Audio/JX Joanna/0-ZFDW.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1012 end=419942 sample=../Audio/JX Joanna/0-LHA0.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=767 end=419479 sample=../Audio/JX Joanna/0-2YBT.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1036 end=420683 sample=../Audio/JX Joanna/0-IMSX.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=684 end=418045 sample=../Audio/JX Joanna/0-Q097.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=740 end=415112 sample=../Audio/JX Joanna/0-B4K1.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1149 sample=../Audio/JX Joanna/0-ZV3T.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=704 end=418576 sample=../Audio/JX Joanna/0-KDCI.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1078 end=418717 sample=../Audio/JX Joanna/0-FMWM.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1078 end=420317 sample=../Audio/JX Joanna/0-EMUL.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=866 end=419294 sample=../Audio/JX Joanna/0-909H.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=953 sample=../Audio/JX Joanna/0-WZ0V.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=843 end=417264 sample=../Audio/JX Joanna/0-6UY6.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=654 end=417891 sample=../Audio/JX Joanna/0-LEGI.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=945 end=420065 sample=../Audio/JX Joanna/0-ABB0.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=947 end=420344 sample=../Audio/JX Joanna/0-ZEZ3.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 end=418796 sample=../Audio/JX Joanna/0-BFCT.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=669 end=415923 sample=../Audio/JX Joanna/0-COLB.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=776 end=417441 sample=../Audio/JX Joanna/0-68UW.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1009 end=418304 sample=../Audio/JX Joanna/0-R8EF.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1144 end=417792 sample=../Audio/JX Joanna/0-93W2.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 sample=../Audio/JX Joanna/0-EDMJ.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=979 end=419200 sample=../Audio/JX Joanna/0-NK6P.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=718 sample=../Audio/JX Joanna/0-OMJP.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=806 sample=../Audio/JX Joanna/0-IUXP.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1073 end=420142 sample=../Audio/JX Joanna/0-0FWQ.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=845 sample=../Audio/JX Joanna/0-TQ5L.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=827 sample=../Audio/JX Joanna/0-AMPJ.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=728 sample=../Audio/JX Joanna/0-ZK1K.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=986 sample=../Audio/JX Joanna/0-HRR5.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=728 end=417672 sample=../Audio/JX Joanna/0-QHAS.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=696 end=418700 sample=../Audio/JX Joanna/0-WVIV.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=910 end=418055 sample=../Audio/JX Joanna/0-5ZRE.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=751 end=419993 sample=../Audio/JX Joanna/0-TWW3.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=684 sample=../Audio/JX Joanna/0-64X5.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=717 sample=../Audio/JX Joanna/0-7ZIP.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1161 sample=../Audio/JX Joanna/0-LK2C.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=777 end=418437 sample=../Audio/JX Joanna/0-Q23H.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1153 end=419462 sample=../Audio/JX Joanna/0-KSHK.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=875 end=420384 sample=../Audio/JX Joanna/0-73GC.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=832 end=419340 sample=../Audio/JX Joanna/0-P5MK.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=928 end=414979 sample=../Audio/JX Joanna/0-GXLF.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=588 end=416640 sample=../Audio/JX Joanna/0-HPDV.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=963 sample=../Audio/JX Joanna/0-0F0V.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=740 end=417032 sample=../Audio/JX Joanna/0-UIXX.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=986 end=419968 sample=../Audio/JX Joanna/0-RKTD.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=877 end=418443 sample=../Audio/JX Joanna/0-CO4K.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1104 sample=../Audio/JX Joanna/0-3XZ8.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1043 sample=../Audio/JX Joanna/0-ZKQK.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=937 sample=../Audio/JX Joanna/0-MUGW.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1103 end=418057 sample=../Audio/JX Joanna/0-QGCT.aif

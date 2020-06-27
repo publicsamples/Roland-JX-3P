@@ -1,0 +1,124 @@
+// this file was generated from Harsher.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=297626 loop_end=394929 sample=../Audio/Harsher/(201356 9550)/36C1-H8X9.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226088 loop_end=400209 sample=../Audio/Harsher/(201356 9550)/37C#1-7DXP.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230639 loop_end=398568 sample=../Audio/Harsher/(201356 9550)/38D1-VMXU.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225265 loop_end=396279 sample=../Audio/Harsher/(201356 9550)/39D#1-8TNH.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225762 loop_end=394710 sample=../Audio/Harsher/(201356 9550)/40E1-MEXV.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323973 loop_end=400393 sample=../Audio/Harsher/(201356 9550)/41F1-4QWP.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261975 loop_end=399093 sample=../Audio/Harsher/(201356 9550)/42F#1-8MTL.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240952 loop_end=380300 sample=../Audio/Harsher/(201356 9550)/43G1-8TRY.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255506 loop_end=380217 sample=../Audio/Harsher/(201356 9550)/44G#1-6FA4.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276472 loop_end=400619 sample=../Audio/Harsher/(201356 9550)/45A1-PCSD.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246444 loop_end=356781 sample=../Audio/Harsher/(201356 9550)/46A#1-506E.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245342 loop_end=355947 sample=../Audio/Harsher/(201356 9550)/47B1-8SIW.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282030 loop_end=389805 sample=../Audio/Harsher/(201356 9550)/48C2-GJ9F.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305725 loop_end=399143 sample=../Audio/Harsher/(201356 9550)/49C#2-M33N.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225892 loop_end=320095 sample=../Audio/Harsher/(201356 9550)/50D2-VHWO.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246897 loop_end=295467 sample=../Audio/Harsher/(201356 9550)/51D#2-07ND.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225633 loop_end=381679 sample=../Audio/Harsher/(201356 9550)/52E2-FP2N.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242097 loop_end=397991 sample=../Audio/Harsher/(201356 9550)/53F2-N23K.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231400 loop_end=372809 sample=../Audio/Harsher/(201356 9550)/54F#2-KM8I.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248643 loop_end=297551 sample=../Audio/Harsher/(201356 9550)/55G2-ZOLZ.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241941 loop_end=367922 sample=../Audio/Harsher/(201356 9550)/56G#2-9P8Z.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316788 loop_end=394137 sample=../Audio/Harsher/(201356 9550)/57A2-CB6F.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268079 loop_end=379932 sample=../Audio/Harsher/(201356 9550)/58A#2-17C3.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273108 loop_end=383698 sample=../Audio/Harsher/(201356 9550)/59B2-O1NQ.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242191 loop_end=399791 sample=../Audio/Harsher/(201356 9550)/60C3-XM7R.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238040 loop_end=334328 sample=../Audio/Harsher/(201356 9550)/61C#3-E4WB.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269649 loop_end=364151 sample=../Audio/Harsher/(201356 9550)/62D3-6F04.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271322 loop_end=399856 sample=../Audio/Harsher/(201356 9550)/63D#3-XLLD.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237233 loop_end=396753 sample=../Audio/Harsher/(201356 9550)/64E3-TKE0.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241444 loop_end=401900 sample=../Audio/Harsher/(201356 9550)/65F3-BUKM.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232274 loop_end=297467 sample=../Audio/Harsher/(201356 9550)/66F#3-4XPY.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=312805 loop_end=377280 sample=../Audio/Harsher/(201356 9550)/67G3-W7SG.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327387 loop_end=391650 sample=../Audio/Harsher/(201356 9550)/68G#3-39PR.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271046 loop_end=384518 sample=../Audio/Harsher/(201356 9550)/69A3-FKHD.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319187 loop_end=400984 sample=../Audio/Harsher/(201356 9550)/70A#3-Y2KM.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=310991 loop_end=391600 sample=../Audio/Harsher/(201356 9550)/71B3-QZA6.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340546 loop_end=387661 sample=../Audio/Harsher/(201356 9550)/72C4-YVYI.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278316 loop_end=326932 sample=../Audio/Harsher/(201356 9550)/73C#4-X25S.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282520 loop_end=330516 sample=../Audio/Harsher/(201356 9550)/74D4-MH8N.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323307 loop_end=387560 sample=../Audio/Harsher/(201356 9550)/75D#4-ASW6.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243630 loop_end=387248 sample=../Audio/Harsher/(201356 9550)/76E4-1BZE.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226265 loop_end=322488 sample=../Audio/Harsher/(201356 9550)/77F4-A57I.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236468 loop_end=285235 sample=../Audio/Harsher/(201356 9550)/78F#4-U795.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=310892 loop_end=358964 sample=../Audio/Harsher/(201356 9550)/79G4-2VHM.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258639 loop_end=322047 sample=../Audio/Harsher/(201356 9550)/80G#4-JMDK.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256182 loop_end=321056 sample=../Audio/Harsher/(201356 9550)/81A4-DXJA.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225732 loop_end=386887 sample=../Audio/Harsher/(201356 9550)/82A#4-YYXQ.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269732 loop_end=350161 sample=../Audio/Harsher/(201356 9550)/83B4-11Q3.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225829 loop_end=339564 sample=../Audio/Harsher/(201356 9550)/84C5-9P90.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249892 loop_end=364075 sample=../Audio/Harsher/(201356 9550)/85C#5-EE5Y.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279875 loop_end=377452 sample=../Audio/Harsher/(201356 9550)/86D5-JLY1.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247364 loop_end=360438 sample=../Audio/Harsher/(201356 9550)/87D#5-QNW2.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=298969 loop_end=395856 sample=../Audio/Harsher/(201356 9550)/88E5-X48E.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225857 loop_end=322544 sample=../Audio/Harsher/(201356 9550)/89F5-7EZR.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247917 loop_end=329298 sample=../Audio/Harsher/(201356 9550)/90F#5-FNK8.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237318 loop_end=400312 sample=../Audio/Harsher/(201356 9550)/91G5-YXQP.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290262 loop_end=339446 sample=../Audio/Harsher/(201356 9550)/92G#5-VXUW.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318706 loop_end=367966 sample=../Audio/Harsher/(201356 9550)/93A5-T9Q4.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329839 loop_end=378916 sample=../Audio/Harsher/(201356 9550)/94A#5-F1TF.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269103 loop_end=334811 sample=../Audio/Harsher/(201356 9550)/95B5-LG9S.aif
+<group>lokey=96 hikey=118 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229137 loop_end=278348 sample=../Audio/Harsher/(201356 9550)/96C6-ZX40.aif

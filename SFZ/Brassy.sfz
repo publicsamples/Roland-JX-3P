@@ -1,0 +1,124 @@
+// this file was generated from Brassy.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=108607 loop_end=294256 sample=../Audio/Brassy/(201324 213513)/0-HQVI.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=100260 loop_end=377930 sample=../Audio/Brassy/(201324 213513)/0-Q4MC.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=129388 loop_end=316674 sample=../Audio/Brassy/(201324 213513)/0-9OLH.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=104501 loop_end=289881 sample=../Audio/Brassy/(201324 213513)/0-NPGF.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=124615 loop_end=310974 sample=../Audio/Brassy/(201324 213513)/0-5FZ0.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=103587 loop_end=288685 sample=../Audio/Brassy/(201324 213513)/0-8ZJU.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117817 loop_end=301215 sample=../Audio/Brassy/(201324 213513)/0-5ETH.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131393 loop_end=316800 sample=../Audio/Brassy/(201324 213513)/0-GL26.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=100567 loop_end=377046 sample=../Audio/Brassy/(201324 213513)/0-WH53.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=182341 loop_end=275680 sample=../Audio/Brassy/(201324 213513)/0-SYTE.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=99325 loop_end=378950 sample=../Audio/Brassy/(201324 213513)/0-8MCH.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265781 loop_end=358696 sample=../Audio/Brassy/(201324 213513)/0-IPWQ.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=101140 loop_end=380628 sample=../Audio/Brassy/(201324 213513)/0-CGYY.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232978 loop_end=325416 sample=../Audio/Brassy/(201324 213513)/0-S5TU.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192577 loop_end=378946 sample=../Audio/Brassy/(201324 213513)/0-AO57.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=195195 loop_end=380556 sample=../Audio/Brassy/(201324 213513)/0-D4RD.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239195 loop_end=332365 sample=../Audio/Brassy/(201324 213513)/0-UUBH.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155239 loop_end=247785 sample=../Audio/Brassy/(201324 213513)/0-CVNG.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160027 loop_end=253168 sample=../Audio/Brassy/(201324 213513)/0-5S0K.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275575 loop_end=368962 sample=../Audio/Brassy/(201324 213513)/0-W2Y0.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=102111 loop_end=380496 sample=../Audio/Brassy/(201324 213513)/0-AKC7.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=179276 loop_end=366751 sample=../Audio/Brassy/(201324 213513)/0-9XH5.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127419 loop_end=313564 sample=../Audio/Brassy/(201324 213513)/0-98PU.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=97581 loop_end=376485 sample=../Audio/Brassy/(201324 213513)/0-03MJ.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=97783 loop_end=375886 sample=../Audio/Brassy/(201324 213513)/0-AJTZ.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261702 loop_end=354615 sample=../Audio/Brassy/(201324 213513)/0-5435.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=184658 loop_end=369796 sample=../Audio/Brassy/(201324 213513)/0-85K7.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=171488 loop_end=263741 sample=../Audio/Brassy/(201324 213513)/0-FF1A.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269704 loop_end=362051 sample=../Audio/Brassy/(201324 213513)/0-UZQH.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278394 loop_end=371819 sample=../Audio/Brassy/(201324 213513)/0-PP7X.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=101617 loop_end=380558 sample=../Audio/Brassy/(201324 213513)/0-QC8H.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142808 loop_end=328416 sample=../Audio/Brassy/(201324 213513)/0-9QOB.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143811 loop_end=237442 sample=../Audio/Brassy/(201324 213513)/0-GKM7.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=111869 loop_end=205000 sample=../Audio/Brassy/(201324 213513)/0-RXPI.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=210958 loop_end=305753 sample=../Audio/Brassy/(201324 213513)/0-Q2XC.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=174538 loop_end=267806 sample=../Audio/Brassy/(201324 213513)/0-O3GQ.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287231 loop_end=380540 sample=../Audio/Brassy/(201324 213513)/0-7A0C.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270926 loop_end=364145 sample=../Audio/Brassy/(201324 213513)/0-8V1R.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=215693 loop_end=307806 sample=../Audio/Brassy/(201324 213513)/0-YA3Z.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=153218 loop_end=338864 sample=../Audio/Brassy/(201324 213513)/0-JK3J.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=113264 loop_end=298837 sample=../Audio/Brassy/(201324 213513)/0-8AZB.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259284 loop_end=353919 sample=../Audio/Brassy/(201324 213513)/0-Z6KC.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=109132 loop_end=200500 sample=../Audio/Brassy/(201324 213513)/0-X86V.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=173559 loop_end=267871 sample=../Audio/Brassy/(201324 213513)/0-HK82.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141948 loop_end=234483 sample=../Audio/Brassy/(201324 213513)/0-BOM0.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227187 loop_end=321231 sample=../Audio/Brassy/(201324 213513)/0-Y5K0.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240338 loop_end=332237 sample=../Audio/Brassy/(201324 213513)/0-CCC9.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280208 loop_end=372546 sample=../Audio/Brassy/(201324 213513)/0-50WJ.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=154277 loop_end=247002 sample=../Audio/Brassy/(201324 213513)/0-GSEU.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=191185 loop_end=284130 sample=../Audio/Brassy/(201324 213513)/0-IOAV.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=121971 loop_end=216784 sample=../Audio/Brassy/(201324 213513)/0-Y1KA.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=152172 loop_end=245103 sample=../Audio/Brassy/(201324 213513)/0-CBGB.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=112991 loop_end=205264 sample=../Audio/Brassy/(201324 213513)/0-X1ET.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=167501 loop_end=260535 sample=../Audio/Brassy/(201324 213513)/0-VTKE.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229046 loop_end=320633 sample=../Audio/Brassy/(201324 213513)/0-95KA.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257696 loop_end=377399 sample=../Audio/Brassy/(201324 213513)/0-FL9O.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141650 loop_end=234883 sample=../Audio/Brassy/(201324 213513)/0-LOSP.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=169549 loop_end=379288 sample=../Audio/Brassy/(201324 213513)/0-UNC5.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240250 loop_end=311429 sample=../Audio/Brassy/(201324 213513)/0-S0G3.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=186077 loop_end=350896 sample=../Audio/Brassy/(201324 213513)/0-NHRZ.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=126707 loop_end=332500 sample=../Audio/Brassy/(201324 213513)/0-7SLD.aif

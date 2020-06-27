@@ -1,0 +1,124 @@
+// this file was generated from Drunk Cat.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1442 end=584944 sample=../Audio/Drunk Cat/0-YDPT.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1229 end=579744 sample=../Audio/Drunk Cat/0-9WYF.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1055 sample=../Audio/Drunk Cat/0-W1VG.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1646 sample=../Audio/Drunk Cat/0-0MEI.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1733 end=574468 sample=../Audio/Drunk Cat/0-0RP5.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1177 end=568926 sample=../Audio/Drunk Cat/0-E4JU.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1354 end=580298 sample=../Audio/Drunk Cat/0-ANXT.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1583 end=573448 sample=../Audio/Drunk Cat/0-GRC8.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1257 end=572897 sample=../Audio/Drunk Cat/0-8VMV.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1417 end=570134 sample=../Audio/Drunk Cat/0-GPAL.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1146 end=569283 sample=../Audio/Drunk Cat/0-2EZZ.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1484 end=571780 sample=../Audio/Drunk Cat/0-7XR8.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1791 end=575982 sample=../Audio/Drunk Cat/0-KD6F.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1573 end=574593 sample=../Audio/Drunk Cat/0-TB6I.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1769 end=576272 sample=../Audio/Drunk Cat/0-Z1EZ.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1394 end=571646 sample=../Audio/Drunk Cat/0-RC5R.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1546 end=573554 sample=../Audio/Drunk Cat/0-A8KS.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1292 end=573946 sample=../Audio/Drunk Cat/0-TTS8.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1509 sample=../Audio/Drunk Cat/0-Y7RY.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1607 end=573001 sample=../Audio/Drunk Cat/0-ZEDR.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1601 end=573824 sample=../Audio/Drunk Cat/0-U5O7.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1230 end=571904 sample=../Audio/Drunk Cat/0-WZBG.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1712 end=576831 sample=../Audio/Drunk Cat/0-GL3R.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1493 sample=../Audio/Drunk Cat/0-RV7B.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1108 sample=../Audio/Drunk Cat/0-0BOS.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1395 end=575889 sample=../Audio/Drunk Cat/0-Y91W.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1407 end=573581 sample=../Audio/Drunk Cat/0-A1X3.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1488 end=578048 sample=../Audio/Drunk Cat/0-NMAR.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1520 sample=../Audio/Drunk Cat/0-XUBV.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1494 end=578688 sample=../Audio/Drunk Cat/0-IBTR.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1462 sample=../Audio/Drunk Cat/0-1X0L.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1245 end=577948 sample=../Audio/Drunk Cat/0-IRUD.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1326 end=576769 sample=../Audio/Drunk Cat/0-SIVU.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1407 end=578304 sample=../Audio/Drunk Cat/0-NRWG.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1626 sample=../Audio/Drunk Cat/0-K39G.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1738 sample=../Audio/Drunk Cat/0-HBC3.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1553 end=586769 sample=../Audio/Drunk Cat/0-F2AS.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1762 end=592263 sample=../Audio/Drunk Cat/0-KIIE.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1612 end=581888 sample=../Audio/Drunk Cat/0-3J4N.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1193 end=588146 sample=../Audio/Drunk Cat/0-84AN.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1636 end=578176 sample=../Audio/Drunk Cat/0-AQLU.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1535 end=577695 sample=../Audio/Drunk Cat/0-8CP1.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1261 sample=../Audio/Drunk Cat/0-1NHE.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1791 sample=../Audio/Drunk Cat/0-CU1T.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1395 end=576384 sample=../Audio/Drunk Cat/0-OG6L.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1636 sample=../Audio/Drunk Cat/0-A5EP.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1477 end=578602 sample=../Audio/Drunk Cat/0-9JXF.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1610 sample=../Audio/Drunk Cat/0-FI8U.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1518 end=587424 sample=../Audio/Drunk Cat/0-8DIT.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1260 end=582805 sample=../Audio/Drunk Cat/0-JCOQ.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1404 end=581909 sample=../Audio/Drunk Cat/0-GM6W.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1401 end=581014 sample=../Audio/Drunk Cat/0-93NE.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1654 sample=../Audio/Drunk Cat/0-B6WV.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1407 sample=../Audio/Drunk Cat/0-MFB5.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1402 end=601329 sample=../Audio/Drunk Cat/0-BAPV.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1520 sample=../Audio/Drunk Cat/0-NP8M.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1508 sample=../Audio/Drunk Cat/0-PVVD.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1527 end=582426 sample=../Audio/Drunk Cat/0-ZJ2U.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1520 end=584475 sample=../Audio/Drunk Cat/0-9M35.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1394 sample=../Audio/Drunk Cat/0-GV01.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1535 end=594816 sample=../Audio/Drunk Cat/0-BYXE.aif

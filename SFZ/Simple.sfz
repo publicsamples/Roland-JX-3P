@@ -1,0 +1,124 @@
+// this file was generated from Simple.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=221142 loop_end=258360 sample=../Audio/Simple/(201355 205231)/36C1-JI9K.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=219713 loop_end=258044 sample=../Audio/Simple/(201355 205231)/37C#1-KN6H.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=231471 loop_end=268244 sample=../Audio/Simple/(201355 205231)/38D1-FMZB.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=221199 loop_end=258183 sample=../Audio/Simple/(201355 205231)/39D#1-0ENW.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=221187 loop_end=257172 sample=../Audio/Simple/(201355 205231)/40E1-K6G5.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=221436 loop_end=257433 sample=../Audio/Simple/(201355 205231)/41F1-SEIL.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=221047 loop_end=258365 sample=../Audio/Simple/(201355 205231)/42F#1-BWZA.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=219908 loop_end=256491 sample=../Audio/Simple/(201355 205231)/43G1-I03W.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=221161 loop_end=258246 sample=../Audio/Simple/(201355 205231)/44G#1-H6V3.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=289115 loop_end=400174 sample=../Audio/Simple/(201355 205231)/45A1-MAN4.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=289302 loop_end=365260 sample=../Audio/Simple/(201355 205231)/46A#1-D264.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=296385 loop_end=369147 sample=../Audio/Simple/(201355 205231)/47B1-7FSD.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=220339 loop_end=256878 sample=../Audio/Simple/(201355 205231)/48C2-FV9X.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=233110 loop_end=382888 sample=../Audio/Simple/(201355 205231)/49C#2-LLQ1.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=265452 loop_end=304341 sample=../Audio/Simple/(201355 205231)/50D2-B07F.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=361568 loop_end=399406 sample=../Audio/Simple/(201355 205231)/51D#2-EUMQ.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=297335 loop_end=334394 sample=../Audio/Simple/(201355 205231)/52E2-TESC.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=237712 loop_end=388275 sample=../Audio/Simple/(201355 205231)/53F2-VDEJ.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=238762 loop_end=350490 sample=../Audio/Simple/(201355 205231)/54F#2-8SVO.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=295019 loop_end=370897 sample=../Audio/Simple/(201355 205231)/55G2-V8M6.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=261423 loop_end=375032 sample=../Audio/Simple/(201355 205231)/56G#2-GTOX.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=221457 loop_end=260289 sample=../Audio/Simple/(201355 205231)/57A2-C1E0.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=300515 loop_end=338302 sample=../Audio/Simple/(201355 205231)/58A#2-ZLAL.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=331678 loop_end=368236 sample=../Audio/Simple/(201355 205231)/59B2-O72H.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=263410 loop_end=376080 sample=../Audio/Simple/(201355 205231)/60C3-6GA8.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=254225 loop_end=328949 sample=../Audio/Simple/(201355 205231)/61C#3-AC8H.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=259255 loop_end=370926 sample=../Audio/Simple/(201355 205231)/62D3-LFVD.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=311514 loop_end=349496 sample=../Audio/Simple/(201355 205231)/63D#3-QRSN.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=249078 loop_end=399591 sample=../Audio/Simple/(201355 205231)/64E3-CD3O.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=324865 loop_end=400647 sample=../Audio/Simple/(201355 205231)/65F3-G4VH.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=234298 loop_end=346146 sample=../Audio/Simple/(201355 205231)/66F#3-OH5O.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=280664 loop_end=355412 sample=../Audio/Simple/(201355 205231)/67G3-4ABC.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=360582 loop_end=397453 sample=../Audio/Simple/(201355 205231)/68G#3-ZPRN.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=325242 loop_end=399875 sample=../Audio/Simple/(201355 205231)/69A3-YYJP.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=292862 loop_end=330648 sample=../Audio/Simple/(201355 205231)/70A#3-2A6U.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=221420 loop_end=258334 sample=../Audio/Simple/(201355 205231)/71B3-LAX9.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=241932 loop_end=391471 sample=../Audio/Simple/(201355 205231)/72C4-8FCQ.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=263889 loop_end=300529 sample=../Audio/Simple/(201355 205231)/73C#4-YBII.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=282918 loop_end=395561 sample=../Audio/Simple/(201355 205231)/74D4-U9BV.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=300337 loop_end=337104 sample=../Audio/Simple/(201355 205231)/75D#4-ZSXK.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=240491 loop_end=389906 sample=../Audio/Simple/(201355 205231)/76E4-SX9P.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=319849 loop_end=357677 sample=../Audio/Simple/(201355 205231)/77F4-BA43.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=273868 loop_end=386580 sample=../Audio/Simple/(201355 205231)/78F#4-OXRH.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=308549 loop_end=345410 sample=../Audio/Simple/(201355 205231)/79G4-EW1X.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=220930 loop_end=370510 sample=../Audio/Simple/(201355 205231)/80G#4-TDBO.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=310619 loop_end=347485 sample=../Audio/Simple/(201355 205231)/81A4-N1L6.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=309487 loop_end=347781 sample=../Audio/Simple/(201355 205231)/82A#4-SONC.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=286749 loop_end=324692 sample=../Audio/Simple/(201355 205231)/83B4-US9L.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=360293 loop_end=398346 sample=../Audio/Simple/(201355 205231)/84C5-CXFP.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=317805 loop_end=392583 sample=../Audio/Simple/(201355 205231)/85C#5-N8FP.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=228028 loop_end=302551 sample=../Audio/Simple/(201355 205231)/86D5-H2JV.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=258064 loop_end=332990 sample=../Audio/Simple/(201355 205231)/87D#5-0KOK.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=357865 loop_end=395860 sample=../Audio/Simple/(201355 205231)/88E5-E2YA.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=300702 loop_end=337742 sample=../Audio/Simple/(201355 205231)/89F5-G117.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=235324 loop_end=272413 sample=../Audio/Simple/(201355 205231)/90F#5-Y3GV.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=222960 loop_end=260883 sample=../Audio/Simple/(201355 205231)/91G5-XGHZ.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=287714 loop_end=400003 sample=../Audio/Simple/(201355 205231)/92G#5-LG2C.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=278110 loop_end=316193 sample=../Audio/Simple/(201355 205231)/93A5-1F7T.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=325965 loop_end=399920 sample=../Audio/Simple/(201355 205231)/94A#5-7AVN.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=250306 loop_end=399738 sample=../Audio/Simple/(201355 205231)/95B5-JNN5.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=300100 loop_end=375043 sample=../Audio/Simple/(201355 205231)/96C6-09QC.aif

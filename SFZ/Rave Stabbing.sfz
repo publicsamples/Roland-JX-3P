@@ -1,0 +1,124 @@
+// this file was generated from Rave Stabbing.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=697 end=49096 sample=../Audio/Rave Stabbing/0-95N9.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=832 sample=../Audio/Rave Stabbing/0-5NQJ.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=797 end=45049 sample=../Audio/Rave Stabbing/0-AG1F.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=633 end=50848 sample=../Audio/Rave Stabbing/0-N6BZ.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1086 end=56188 sample=../Audio/Rave Stabbing/0-JPJT.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=763 end=47279 sample=../Audio/Rave Stabbing/0-AV35.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=992 end=42959 sample=../Audio/Rave Stabbing/0-HMI7.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=690 end=43606 sample=../Audio/Rave Stabbing/0-QE18.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=970 end=45831 sample=../Audio/Rave Stabbing/0-CSIJ.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=599 end=44451 sample=../Audio/Rave Stabbing/0-UHQ5.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=959 end=44258 sample=../Audio/Rave Stabbing/0-0C0M.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1080 end=43351 sample=../Audio/Rave Stabbing/0-823Y.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=837 end=52509 sample=../Audio/Rave Stabbing/0-8Y47.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=642 end=44105 sample=../Audio/Rave Stabbing/0-I16V.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=889 end=45442 sample=../Audio/Rave Stabbing/0-7FNH.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=663 end=45964 sample=../Audio/Rave Stabbing/0-8KU3.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=699 end=46008 sample=../Audio/Rave Stabbing/0-FOFK.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=707 end=48602 sample=../Audio/Rave Stabbing/0-BXPC.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=699 end=45063 sample=../Audio/Rave Stabbing/0-GW8G.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1010 end=42847 sample=../Audio/Rave Stabbing/0-5HQO.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=668 end=46581 sample=../Audio/Rave Stabbing/0-TZWO.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=651 end=46124 sample=../Audio/Rave Stabbing/0-IV3G.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=852 end=48100 sample=../Audio/Rave Stabbing/0-CBPO.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1015 end=51793 sample=../Audio/Rave Stabbing/0-JPVC.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=824 end=49435 sample=../Audio/Rave Stabbing/0-GGIN.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=936 end=49342 sample=../Audio/Rave Stabbing/0-QN8Z.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=791 end=45920 sample=../Audio/Rave Stabbing/0-59AW.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=848 end=46592 sample=../Audio/Rave Stabbing/0-O8EF.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=704 end=49226 sample=../Audio/Rave Stabbing/0-JH7Q.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=666 end=50304 sample=../Audio/Rave Stabbing/0-WHHU.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=642 sample=../Audio/Rave Stabbing/0-89NR.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=830 end=45139 sample=../Audio/Rave Stabbing/0-SL01.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=973 end=51709 sample=../Audio/Rave Stabbing/0-9CNH.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=702 end=47674 sample=../Audio/Rave Stabbing/0-UBUW.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=896 end=47841 sample=../Audio/Rave Stabbing/0-966C.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=621 end=51459 sample=../Audio/Rave Stabbing/0-TUO9.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=883 sample=../Audio/Rave Stabbing/0-CIGY.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=867 end=48071 sample=../Audio/Rave Stabbing/0-K719.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=709 end=46652 sample=../Audio/Rave Stabbing/0-82IR.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=995 end=45783 sample=../Audio/Rave Stabbing/0-4WLD.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=864 end=48828 sample=../Audio/Rave Stabbing/0-WVTV.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=748 end=48934 sample=../Audio/Rave Stabbing/0-J9YL.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=766 end=49834 sample=../Audio/Rave Stabbing/0-LHHU.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=696 end=60472 sample=../Audio/Rave Stabbing/0-2VWO.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=873 end=48157 sample=../Audio/Rave Stabbing/0-2GQG.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=845 end=48148 sample=../Audio/Rave Stabbing/0-FA4T.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=828 end=49692 sample=../Audio/Rave Stabbing/0-FAQ7.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=915 end=49279 sample=../Audio/Rave Stabbing/0-K8EQ.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1003 end=53877 sample=../Audio/Rave Stabbing/0-TL8W.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=875 end=48873 sample=../Audio/Rave Stabbing/0-Z6ZW.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=995 end=45952 sample=../Audio/Rave Stabbing/0-VTSB.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=946 end=48799 sample=../Audio/Rave Stabbing/0-IIMB.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=933 end=50587 sample=../Audio/Rave Stabbing/0-36V1.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=603 end=49792 sample=../Audio/Rave Stabbing/0-6WP0.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=808 end=49614 sample=../Audio/Rave Stabbing/0-0WDT.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=870 end=48807 sample=../Audio/Rave Stabbing/0-SPQK.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=840 end=48274 sample=../Audio/Rave Stabbing/0-RI49.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1083 end=50328 sample=../Audio/Rave Stabbing/0-156J.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=857 end=47874 sample=../Audio/Rave Stabbing/0-OS8O.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=908 end=50563 sample=../Audio/Rave Stabbing/0-EHL7.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=810 end=51830 sample=../Audio/Rave Stabbing/0-0AQO.aif

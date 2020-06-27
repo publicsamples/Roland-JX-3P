@@ -1,0 +1,124 @@
+// this file was generated from Little Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=100768 loop_end=123974 sample=../Audio/Little Bass/(201324 205622)/0-X5H3.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=96407 loop_end=136349 sample=../Audio/Little Bass/(201324 205622)/0-Z7D1.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=118901 loop_end=138359 sample=../Audio/Little Bass/(201324 205622)/0-JM2Q.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=80014 loop_end=117893 sample=../Audio/Little Bass/(201324 205622)/0-Q1I7.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=121003 loop_end=139421 sample=../Audio/Little Bass/(201324 205622)/0-YP1Y.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=134339 loop_end=150700 sample=../Audio/Little Bass/(201324 205622)/0-LLT6.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=119087 loop_end=152869 sample=../Audio/Little Bass/(201324 205622)/0-T1GK.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=116952 loop_end=140639 sample=../Audio/Little Bass/(201324 205622)/0-1NBK.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=101785 loop_end=123282 sample=../Audio/Little Bass/(201324 205622)/0-9K1S.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77333 loop_end=144700 sample=../Audio/Little Bass/(201324 205622)/0-ZQQA.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=112736 loop_end=132653 sample=../Audio/Little Bass/(201324 205622)/0-VZLF.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=75954 loop_end=101260 sample=../Audio/Little Bass/(201324 205622)/0-3TRP.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=86651 loop_end=154219 sample=../Audio/Little Bass/(201324 205622)/0-LZHA.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=87557 loop_end=144244 sample=../Audio/Little Bass/(201324 205622)/0-GIAS.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=112401 loop_end=150708 sample=../Audio/Little Bass/(201324 205622)/0-WEVD.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=76186 loop_end=128408 sample=../Audio/Little Bass/(201324 205622)/0-5RGP.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=113580 loop_end=131996 sample=../Audio/Little Bass/(201324 205622)/0-7BCV.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=99952 loop_end=148523 sample=../Audio/Little Bass/(201324 205622)/0-TIX3.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=96112 loop_end=146301 sample=../Audio/Little Bass/(201324 205622)/0-CPB3.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=97572 loop_end=118981 sample=../Audio/Little Bass/(201324 205622)/0-S3A5.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117381 loop_end=152635 sample=../Audio/Little Bass/(201324 205622)/0-TRP2.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=107055 loop_end=130591 sample=../Audio/Little Bass/(201324 205622)/0-VEAJ.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82999 loop_end=136620 sample=../Audio/Little Bass/(201324 205622)/0-5XVF.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=78984 loop_end=146946 sample=../Audio/Little Bass/(201324 205622)/0-WYGA.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=91590 loop_end=148233 sample=../Audio/Little Bass/(201324 205622)/0-CO3T.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=75072 loop_end=132398 sample=../Audio/Little Bass/(201324 205622)/0-APNP.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=116432 loop_end=155647 sample=../Audio/Little Bass/(201324 205622)/0-IB34.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=106936 loop_end=130177 sample=../Audio/Little Bass/(201324 205622)/0-PSL8.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=81097 loop_end=134174 sample=../Audio/Little Bass/(201324 205622)/0-J93D.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=114311 loop_end=131947 sample=../Audio/Little Bass/(201324 205622)/0-F92O.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=78370 loop_end=110703 sample=../Audio/Little Bass/(201324 205622)/0-NQQ6.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=115098 loop_end=150852 sample=../Audio/Little Bass/(201324 205622)/0-COBP.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=95348 loop_end=112762 sample=../Audio/Little Bass/(201324 205622)/0-W1Q5.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82990 loop_end=105511 sample=../Audio/Little Bass/(201324 205622)/0-BZ30.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=103889 loop_end=120932 sample=../Audio/Little Bass/(201324 205622)/0-GTLD.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=95613 loop_end=130859 sample=../Audio/Little Bass/(201324 205622)/0-640O.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=92921 loop_end=114243 sample=../Audio/Little Bass/(201324 205622)/0-WHLM.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82022 loop_end=112128 sample=../Audio/Little Bass/(201324 205622)/0-2AAV.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=92431 loop_end=154902 sample=../Audio/Little Bass/(201324 205622)/0-LDX0.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=75301 loop_end=98819 sample=../Audio/Little Bass/(201324 205622)/0-QMWS.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=116842 loop_end=150421 sample=../Audio/Little Bass/(201324 205622)/0-H7M6.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127218 loop_end=145621 sample=../Audio/Little Bass/(201324 205622)/0-GH41.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82479 loop_end=106481 sample=../Audio/Little Bass/(201324 205622)/0-9UCU.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=78615 loop_end=102748 sample=../Audio/Little Bass/(201324 205622)/0-HCGC.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=108226 loop_end=139821 sample=../Audio/Little Bass/(201324 205622)/0-SZDP.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=91103 loop_end=151465 sample=../Audio/Little Bass/(201324 205622)/0-0AI9.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=133162 loop_end=150774 sample=../Audio/Little Bass/(201324 205622)/0-E9JZ.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=120724 loop_end=147014 sample=../Audio/Little Bass/(201324 205622)/0-IHNF.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=92055 loop_end=114734 sample=../Audio/Little Bass/(201324 205622)/0-AREX.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=98985 loop_end=123930 sample=../Audio/Little Bass/(201324 205622)/0-RC7T.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=106916 loop_end=133125 sample=../Audio/Little Bass/(201324 205622)/0-J9DF.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=78699 loop_end=155996 sample=../Audio/Little Bass/(201324 205622)/0-JN90.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=92366 loop_end=147992 sample=../Audio/Little Bass/(201324 205622)/0-578P.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=78351 loop_end=98151 sample=../Audio/Little Bass/(201324 205622)/0-MODJ.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=121362 loop_end=140340 sample=../Audio/Little Bass/(201324 205622)/0-L9CN.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=84978 loop_end=102736 sample=../Audio/Little Bass/(201324 205622)/0-1ZI7.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=87750 loop_end=155257 sample=../Audio/Little Bass/(201324 205622)/0-Z086.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=133659 loop_end=155546 sample=../Audio/Little Bass/(201324 205622)/0-TWTB.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=88039 loop_end=105773 sample=../Audio/Little Bass/(201324 205622)/0-9N7K.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82420 loop_end=100895 sample=../Audio/Little Bass/(201324 205622)/0-0JYN.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=123780 loop_end=146699 sample=../Audio/Little Bass/(201324 205622)/0-W48F.aif

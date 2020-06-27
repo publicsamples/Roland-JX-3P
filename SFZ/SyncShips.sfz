@@ -1,0 +1,124 @@
+// this file was generated from SyncShips.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2374 end=644486 sample=../Audio/SyncShips/36C1-9ZRK.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2499 end=655822 sample=../Audio/SyncShips/37C#1-7ZZN.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2556 end=647936 sample=../Audio/SyncShips/38D1-ZBKG.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2303 end=637331 sample=../Audio/SyncShips/39D#1-2UFL.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2604 end=645376 sample=../Audio/SyncShips/40E1-I27Q.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2805 sample=../Audio/SyncShips/41F1-AH8V.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2934 sample=../Audio/SyncShips/42F#1-WW9Z.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2403 sample=../Audio/SyncShips/43G1-HC7Q.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2684 sample=../Audio/SyncShips/44G#1-26QF.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2411 sample=../Audio/SyncShips/45A1-R8KC.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2519 sample=../Audio/SyncShips/46A#1-GMW1.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2423 sample=../Audio/SyncShips/47B1-GFEU.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2790 end=647983 sample=../Audio/SyncShips/48C2-XT68.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2175 sample=../Audio/SyncShips/49C#2-85S0.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2290 end=648192 sample=../Audio/SyncShips/50D2-83WY.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2558 end=643891 sample=../Audio/SyncShips/51D#2-1BCY.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2559 end=649119 sample=../Audio/SyncShips/52E2-FQH9.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2405 end=646193 sample=../Audio/SyncShips/53F2-VVO1.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2809 sample=../Audio/SyncShips/54F#2-A3XT.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2557 end=658711 sample=../Audio/SyncShips/55G2-45QV.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2297 end=648494 sample=../Audio/SyncShips/56G#2-PPV2.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2288 sample=../Audio/SyncShips/57A2-MR7Y.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2431 end=647545 sample=../Audio/SyncShips/58A#2-ZP8U.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2783 end=650770 sample=../Audio/SyncShips/59B2-A6OD.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2430 end=651349 sample=../Audio/SyncShips/60C3-BI9Z.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2422 sample=../Audio/SyncShips/61C#3-RICT.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2530 sample=../Audio/SyncShips/62D3-JK5J.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2810 sample=../Audio/SyncShips/63D#3-G4ED.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2294 end=650635 sample=../Audio/SyncShips/64E3-XCHA.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2415 end=650514 sample=../Audio/SyncShips/65F3-GB3V.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2558 end=649097 sample=../Audio/SyncShips/66F#3-3SS1.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2303 sample=../Audio/SyncShips/67G3-3P7W.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2296 end=650750 sample=../Audio/SyncShips/68G#3-ME89.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2809 sample=../Audio/SyncShips/69A3-3N43.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2557 end=649410 sample=../Audio/SyncShips/70A#3-P0ZP.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2556 sample=../Audio/SyncShips/71B3-XH5V.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2558 end=650806 sample=../Audio/SyncShips/72C4-YPS9.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2430 sample=../Audio/SyncShips/73C#4-AF5Q.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2426 end=651050 sample=../Audio/SyncShips/74D4-SGL4.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2556 end=649034 sample=../Audio/SyncShips/75D#4-BCFJ.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2558 end=650870 sample=../Audio/SyncShips/76E4-SXEH.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2939 end=646904 sample=../Audio/SyncShips/77F4-QNFJ.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2810 sample=../Audio/SyncShips/78F#4-0VTK.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2553 end=659732 sample=../Audio/SyncShips/79G4-D8YR.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2664 end=648123 sample=../Audio/SyncShips/80G#4-XTVJ.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2942 end=646036 sample=../Audio/SyncShips/81A4-G5PX.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2809 end=647836 sample=../Audio/SyncShips/82A#4-O93Z.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2939 sample=../Audio/SyncShips/83B4-6IFO.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2558 end=650424 sample=../Audio/SyncShips/84C5-OQNT.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2431 sample=../Audio/SyncShips/85C#5-Z74B.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2549 sample=../Audio/SyncShips/86D5-1S3V.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2939 sample=../Audio/SyncShips/87D#5-6TP8.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2811 end=646934 sample=../Audio/SyncShips/88E5-C3GZ.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2940 end=643749 sample=../Audio/SyncShips/89F5-WNVZ.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2927 sample=../Audio/SyncShips/90F#5-Q1JN.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2686 end=649352 sample=../Audio/SyncShips/91G5-0ZDL.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2932 sample=../Audio/SyncShips/92G#5-SRFI.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2813 end=640248 sample=../Audio/SyncShips/93A5-2SEM.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2932 end=641525 sample=../Audio/SyncShips/94A#5-52FW.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2685 end=641133 sample=../Audio/SyncShips/95B5-B67G.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2811 end=640528 sample=../Audio/SyncShips/96C6-OMF4.aif

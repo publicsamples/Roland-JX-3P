@@ -1,0 +1,124 @@
+// this file was generated from Cease.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=809 end=281151 sample=../Audio/Cease/0-DTK3.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=748 end=281955 sample=../Audio/Cease/0-T4X0.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1000 end=297472 sample=../Audio/Cease/0-BQ19.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1020 end=305536 sample=../Audio/Cease/0-AWNT.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=632 end=307840 sample=../Audio/Cease/0-GANE.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=586 end=296192 sample=../Audio/Cease/0-WE9L.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=583 sample=../Audio/Cease/0-RM2S.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=538 end=281304 sample=../Audio/Cease/0-CDPB.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=597 end=297856 sample=../Audio/Cease/0-H9GQ.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=644 sample=../Audio/Cease/0-1HDV.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=999 end=308608 sample=../Audio/Cease/0-RKFS.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=684 end=301696 sample=../Audio/Cease/0-9P6F.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1050 sample=../Audio/Cease/0-90ON.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1071 sample=../Audio/Cease/0-FVHG.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=615 end=297472 sample=../Audio/Cease/0-PFIZ.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=944 end=307084 sample=../Audio/Cease/0-GX4F.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=571 end=308864 sample=../Audio/Cease/0-DNJD.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1047 end=301312 sample=../Audio/Cease/0-OMMF.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=804 sample=../Audio/Cease/0-4Z7J.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=971 end=280226 sample=../Audio/Cease/0-XVRF.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=914 sample=../Audio/Cease/0-X09F.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=774 end=305664 sample=../Audio/Cease/0-T93Q.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1067 sample=../Audio/Cease/0-O0RB.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=856 end=300160 sample=../Audio/Cease/0-I4RH.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=751 end=279302 sample=../Audio/Cease/0-6LBO.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=931 end=281423 sample=../Audio/Cease/0-F3XB.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1036 end=298112 sample=../Audio/Cease/0-LG7O.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=879 sample=../Audio/Cease/0-ZE0X.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=613 end=308224 sample=../Audio/Cease/0-WFFO.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=689 end=300160 sample=../Audio/Cease/0-OMPU.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=740 sample=../Audio/Cease/0-2XEK.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=933 end=282445 sample=../Audio/Cease/0-K3XL.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=677 sample=../Audio/Cease/0-XKIN.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=780 end=306949 sample=../Audio/Cease/0-UYYJ.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=703 end=308736 sample=../Audio/Cease/0-QR0T.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=557 end=297600 sample=../Audio/Cease/0-JLJG.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=931 sample=../Audio/Cease/0-01Q8.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=803 end=281074 sample=../Audio/Cease/0-UT8H.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=880 sample=../Audio/Cease/0-18I0.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=714 end=306688 sample=../Audio/Cease/0-PE1P.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=753 end=309504 sample=../Audio/Cease/0-ZGM0.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=913 end=299136 sample=../Audio/Cease/0-EE2A.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=909 end=279277 sample=../Audio/Cease/0-KHUR.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=751 end=281606 sample=../Audio/Cease/0-ALBB.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=789 end=293632 sample=../Audio/Cease/0-FWBQ.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=691 end=304640 sample=../Audio/Cease/0-5IQG.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=901 end=308480 sample=../Audio/Cease/0-4O1X.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=840 end=300416 sample=../Audio/Cease/0-QEC2.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=788 end=279683 sample=../Audio/Cease/0-Q1BC.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=968 end=281716 sample=../Audio/Cease/0-92TQ.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=850 end=297344 sample=../Audio/Cease/0-ERDJ.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=974 end=306560 sample=../Audio/Cease/0-75IW.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=795 sample=../Audio/Cease/0-RH0E.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=650 end=300288 sample=../Audio/Cease/0-DB4P.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=648 sample=../Audio/Cease/0-L5NA.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1023 end=280867 sample=../Audio/Cease/0-06QC.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1074 end=293248 sample=../Audio/Cease/0-5FWU.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=523 end=304896 sample=../Audio/Cease/0-QDMA.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=718 end=308476 sample=../Audio/Cease/0-0A9B.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=776 end=300544 sample=../Audio/Cease/0-YRPR.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=695 end=275712 sample=../Audio/Cease/0-2OK5.aif
