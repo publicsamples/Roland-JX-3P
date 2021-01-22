@@ -3,7 +3,9 @@
 **Formats:** EXS24, NN-XT Kontakt & SFZ
 -    **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Roland_JX-3P)
 
--   **Audio**: https://www.dropbox.com/sh/m9vbpgr5i1lb1mc/AACKJ5786PVVJ0DdnQwbJQO7a?dl=0
+-**This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/m9vbpgr5i1lb1mc/AACKJ5786PVVJ0DdnQwbJQO7a?dl=0)
 
 # Loading
 
@@ -31,8 +33,10 @@ The SFZ format is supported by a wide variety of synths and samplers as such, sp
 2. Drag the folder to Reasons browser panel
 3. Load a patch
 
-# Disks
+# Support this project
+
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)

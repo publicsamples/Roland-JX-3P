@@ -1,124 +1,124 @@
 // this file was generated from LFOfade.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=224893 loop_end=261367 sample=../Audio/LFOfade/(201355 222159)/36C1-BHE4.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=225610 loop_end=262603 sample=../Audio/LFOfade/(201355 222159)/37C#1-25X2.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=224042 loop_end=261476 sample=../Audio/LFOfade/(201355 222159)/38D1-IOSY.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=224178 loop_end=261823 sample=../Audio/LFOfade/(201355 222159)/39D#1-ONMN.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=332666 loop_end=396061 sample=../Audio/LFOfade/(201355 222159)/40E1-JYFG.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=314699 loop_end=401882 sample=../Audio/LFOfade/(201355 222159)/41F1-T2GC.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=314727 loop_end=401811 sample=../Audio/LFOfade/(201355 222159)/42F#1-BJ19.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=346731 loop_end=401843 sample=../Audio/LFOfade/(201355 222159)/43G1-KCHI.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=331870 loop_end=395793 sample=../Audio/LFOfade/(201355 222159)/44G#1-A271.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=320880 loop_end=392502 sample=../Audio/LFOfade/(201355 222159)/45A1-5J65.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=325552 loop_end=396957 sample=../Audio/LFOfade/(201355 222159)/46A#1-HY3E.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=330923 loop_end=371070 sample=../Audio/LFOfade/(201355 222159)/47B1-D1O2.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=355881 loop_end=395804 sample=../Audio/LFOfade/(201355 222159)/48C2-O1UO.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=326253 loop_end=365862 sample=../Audio/LFOfade/(201355 222159)/49C#2-NHV0.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=330516 loop_end=370310 sample=../Audio/LFOfade/(201355 222159)/50D2-XJWY.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=359393 loop_end=399224 sample=../Audio/LFOfade/(201355 222159)/51D#2-W7H7.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=350223 loop_end=390490 sample=../Audio/LFOfade/(201355 222159)/52E2-U56O.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=349727 loop_end=389769 sample=../Audio/LFOfade/(201355 222159)/53F2-212O.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=359235 loop_end=399421 sample=../Audio/LFOfade/(201355 222159)/54F#2-V0R8.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=351925 loop_end=400246 sample=../Audio/LFOfade/(201355 222159)/55G2-L07C.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=352161 loop_end=400328 sample=../Audio/LFOfade/(201355 222159)/56G#2-9DN5.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=344153 loop_end=400478 sample=../Audio/LFOfade/(201355 222159)/57A2-7UA4.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=328772 loop_end=393324 sample=../Audio/LFOfade/(201355 222159)/58A#2-4ABI.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=325316 loop_end=398077 sample=../Audio/LFOfade/(201355 222159)/59B2-RH0E.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=323206 loop_end=395945 sample=../Audio/LFOfade/(201355 222159)/60C3-CLME.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=326929 loop_end=401008 sample=../Audio/LFOfade/(201355 222159)/61C#3-ZKZ7.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=324352 loop_end=396992 sample=../Audio/LFOfade/(201355 222159)/62D3-NYDC.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=329135 loop_end=401962 sample=../Audio/LFOfade/(201355 222159)/63D#3-0C2A.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=324386 loop_end=397148 sample=../Audio/LFOfade/(201355 222159)/64E3-Z76H.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=325288 loop_end=398021 sample=../Audio/LFOfade/(201355 222159)/65F3-HY00.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=330671 loop_end=395264 sample=../Audio/LFOfade/(201355 222159)/66F#3-YYO6.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=324330 loop_end=397260 sample=../Audio/LFOfade/(201355 222159)/67G3-O8KA.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=332370 loop_end=372870 sample=../Audio/LFOfade/(201355 222159)/68G#3-C153.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=357355 loop_end=397990 sample=../Audio/LFOfade/(201355 222159)/69A3-TZPR.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=360117 loop_end=400937 sample=../Audio/LFOfade/(201355 222159)/70A#3-6885.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=360617 loop_end=401475 sample=../Audio/LFOfade/(201355 222159)/71B3-3TEX.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=345460 loop_end=386387 sample=../Audio/LFOfade/(201355 222159)/72C4-BEJ4.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=360616 loop_end=401479 sample=../Audio/LFOfade/(201355 222159)/73C#4-RRSP.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=359317 loop_end=400306 sample=../Audio/LFOfade/(201355 222159)/74D4-ECQF.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=359845 loop_end=400793 sample=../Audio/LFOfade/(201355 222159)/75D#4-6M32.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=359903 loop_end=400847 sample=../Audio/LFOfade/(201355 222159)/76E4-1WOS.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=337958 loop_end=378886 sample=../Audio/LFOfade/(201355 222159)/77F4-SRU8.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=343837 loop_end=384735 sample=../Audio/LFOfade/(201355 222159)/78F#4-KYQS.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=336142 loop_end=377111 sample=../Audio/LFOfade/(201355 222159)/79G4-LZEK.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=328517 loop_end=369645 sample=../Audio/LFOfade/(201355 222159)/80G#4-B021.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=329677 loop_end=370815 sample=../Audio/LFOfade/(201355 222159)/81A4-MDK5.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=330868 loop_end=372056 sample=../Audio/LFOfade/(201355 222159)/82A#4-N7L6.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=354258 loop_end=395551 sample=../Audio/LFOfade/(201355 222159)/83B4-PMY0.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=332109 loop_end=398298 sample=../Audio/LFOfade/(201355 222159)/84C5-540J.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=298617 loop_end=397946 sample=../Audio/LFOfade/(201355 222159)/85C#5-6FPN.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=331660 loop_end=398018 sample=../Audio/LFOfade/(201355 222159)/86D5-YKUF.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=282012 loop_end=397821 sample=../Audio/LFOfade/(201355 222159)/87D#5-9JLI.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=331193 loop_end=372589 sample=../Audio/LFOfade/(201355 222159)/88E5-24GP.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=330369 loop_end=371721 sample=../Audio/LFOfade/(201355 222159)/89F5-OUHJ.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=298189 loop_end=397529 sample=../Audio/LFOfade/(201355 222159)/90F#5-8CJ7.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=298576 loop_end=398067 sample=../Audio/LFOfade/(201355 222159)/91G5-0R32.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=332486 loop_end=398937 sample=../Audio/LFOfade/(201355 222159)/92G#5-N34J.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=332408 loop_end=399017 sample=../Audio/LFOfade/(201355 222159)/93A5-TZ8R.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=343132 loop_end=401521 sample=../Audio/LFOfade/(201355 222159)/94A#5-C0TA.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=351055 loop_end=401171 sample=../Audio/LFOfade/(201355 222159)/95B5-U376.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=343812 loop_end=394032 sample=../Audio/LFOfade/(201355 222159)/96C6-EOA3.aif
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=224893 loop_end=261367 sample=../Audio/LFOfade/(201355 222159)/36C1-BHE4.aif
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=225610 loop_end=262603 sample=../Audio/LFOfade/(201355 222159)/37C#1-25X2.aif
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=224042 loop_end=261476 sample=../Audio/LFOfade/(201355 222159)/38D1-IOSY.aif
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=224178 loop_end=261823 sample=../Audio/LFOfade/(201355 222159)/39D#1-ONMN.aif
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=332666 loop_end=396061 sample=../Audio/LFOfade/(201355 222159)/40E1-JYFG.aif
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=314699 loop_end=401882 sample=../Audio/LFOfade/(201355 222159)/41F1-T2GC.aif
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=314727 loop_end=401811 sample=../Audio/LFOfade/(201355 222159)/42F#1-BJ19.aif
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=346731 loop_end=401843 sample=../Audio/LFOfade/(201355 222159)/43G1-KCHI.aif
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=331870 loop_end=395793 sample=../Audio/LFOfade/(201355 222159)/44G#1-A271.aif
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=320880 loop_end=392502 sample=../Audio/LFOfade/(201355 222159)/45A1-5J65.aif
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=325552 loop_end=396957 sample=../Audio/LFOfade/(201355 222159)/46A#1-HY3E.aif
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=330923 loop_end=371070 sample=../Audio/LFOfade/(201355 222159)/47B1-D1O2.aif
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=355881 loop_end=395804 sample=../Audio/LFOfade/(201355 222159)/48C2-O1UO.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=326253 loop_end=365862 sample=../Audio/LFOfade/(201355 222159)/49C#2-NHV0.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=330516 loop_end=370310 sample=../Audio/LFOfade/(201355 222159)/50D2-XJWY.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=359393 loop_end=399224 sample=../Audio/LFOfade/(201355 222159)/51D#2-W7H7.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=350223 loop_end=390490 sample=../Audio/LFOfade/(201355 222159)/52E2-U56O.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=349727 loop_end=389769 sample=../Audio/LFOfade/(201355 222159)/53F2-212O.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=359235 loop_end=399421 sample=../Audio/LFOfade/(201355 222159)/54F#2-V0R8.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=351925 loop_end=400246 sample=../Audio/LFOfade/(201355 222159)/55G2-L07C.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=352161 loop_end=400328 sample=../Audio/LFOfade/(201355 222159)/56G#2-9DN5.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=344153 loop_end=400478 sample=../Audio/LFOfade/(201355 222159)/57A2-7UA4.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=328772 loop_end=393324 sample=../Audio/LFOfade/(201355 222159)/58A#2-4ABI.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=325316 loop_end=398077 sample=../Audio/LFOfade/(201355 222159)/59B2-RH0E.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=323206 loop_end=395945 sample=../Audio/LFOfade/(201355 222159)/60C3-CLME.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=326929 loop_end=401008 sample=../Audio/LFOfade/(201355 222159)/61C#3-ZKZ7.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=324352 loop_end=396992 sample=../Audio/LFOfade/(201355 222159)/62D3-NYDC.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=329135 loop_end=401962 sample=../Audio/LFOfade/(201355 222159)/63D#3-0C2A.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=324386 loop_end=397148 sample=../Audio/LFOfade/(201355 222159)/64E3-Z76H.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=325288 loop_end=398021 sample=../Audio/LFOfade/(201355 222159)/65F3-HY00.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=330671 loop_end=395264 sample=../Audio/LFOfade/(201355 222159)/66F#3-YYO6.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=324330 loop_end=397260 sample=../Audio/LFOfade/(201355 222159)/67G3-O8KA.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=332370 loop_end=372870 sample=../Audio/LFOfade/(201355 222159)/68G#3-C153.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=357355 loop_end=397990 sample=../Audio/LFOfade/(201355 222159)/69A3-TZPR.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=360117 loop_end=400937 sample=../Audio/LFOfade/(201355 222159)/70A#3-6885.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=360617 loop_end=401475 sample=../Audio/LFOfade/(201355 222159)/71B3-3TEX.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=345460 loop_end=386387 sample=../Audio/LFOfade/(201355 222159)/72C4-BEJ4.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=360616 loop_end=401479 sample=../Audio/LFOfade/(201355 222159)/73C#4-RRSP.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=359317 loop_end=400306 sample=../Audio/LFOfade/(201355 222159)/74D4-ECQF.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=359845 loop_end=400793 sample=../Audio/LFOfade/(201355 222159)/75D#4-6M32.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=359903 loop_end=400847 sample=../Audio/LFOfade/(201355 222159)/76E4-1WOS.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=337958 loop_end=378886 sample=../Audio/LFOfade/(201355 222159)/77F4-SRU8.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=343837 loop_end=384735 sample=../Audio/LFOfade/(201355 222159)/78F#4-KYQS.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=336142 loop_end=377111 sample=../Audio/LFOfade/(201355 222159)/79G4-LZEK.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=328517 loop_end=369645 sample=../Audio/LFOfade/(201355 222159)/80G#4-B021.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=329677 loop_end=370815 sample=../Audio/LFOfade/(201355 222159)/81A4-MDK5.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=330868 loop_end=372056 sample=../Audio/LFOfade/(201355 222159)/82A#4-N7L6.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=354258 loop_end=395551 sample=../Audio/LFOfade/(201355 222159)/83B4-PMY0.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=332109 loop_end=398298 sample=../Audio/LFOfade/(201355 222159)/84C5-540J.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=298617 loop_end=397946 sample=../Audio/LFOfade/(201355 222159)/85C#5-6FPN.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=331660 loop_end=398018 sample=../Audio/LFOfade/(201355 222159)/86D5-YKUF.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=282012 loop_end=397821 sample=../Audio/LFOfade/(201355 222159)/87D#5-9JLI.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=331193 loop_end=372589 sample=../Audio/LFOfade/(201355 222159)/88E5-24GP.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=330369 loop_end=371721 sample=../Audio/LFOfade/(201355 222159)/89F5-OUHJ.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=298189 loop_end=397529 sample=../Audio/LFOfade/(201355 222159)/90F#5-8CJ7.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=298576 loop_end=398067 sample=../Audio/LFOfade/(201355 222159)/91G5-0R32.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=332486 loop_end=398937 sample=../Audio/LFOfade/(201355 222159)/92G#5-N34J.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=332408 loop_end=399017 sample=../Audio/LFOfade/(201355 222159)/93A5-TZ8R.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=343132 loop_end=401521 sample=../Audio/LFOfade/(201355 222159)/94A#5-C0TA.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=351055 loop_end=401171 sample=../Audio/LFOfade/(201355 222159)/95B5-U376.aif
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=343812 loop_end=394032 sample=../Audio/LFOfade/(201355 222159)/96C6-EOA3.aif

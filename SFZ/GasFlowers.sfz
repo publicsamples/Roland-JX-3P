@@ -1,124 +1,124 @@
 // this file was generated from GasFlowers.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=636 end=292229 sample=../Audio/GasFlowers/36C1-P9GY.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1012 end=300198 sample=../Audio/GasFlowers/37C#1-WZIK.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=602 end=305919 sample=../Audio/GasFlowers/38D1-0CWP.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=995 end=301321 sample=../Audio/GasFlowers/39D#1-W1Z5.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 sample=../Audio/GasFlowers/40E1-H57U.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=638 sample=../Audio/GasFlowers/41F1-KB36.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=544 end=293718 sample=../Audio/GasFlowers/42F#1-53FP.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=896 end=304919 sample=../Audio/GasFlowers/43G1-Q0VN.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=948 end=303710 sample=../Audio/GasFlowers/44G#1-J9ND.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=578 end=302738 sample=../Audio/GasFlowers/45A1-SSWA.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=598 end=300165 sample=../Audio/GasFlowers/46A#1-3IHU.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=904 end=302442 sample=../Audio/GasFlowers/47B1-1IWP.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=747 end=299756 sample=../Audio/GasFlowers/48C2-P7VX.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=742 end=300264 sample=../Audio/GasFlowers/49C#2-TNVG.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=515 end=305263 sample=../Audio/GasFlowers/50D2-1SZ9.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=681 end=299268 sample=../Audio/GasFlowers/51D#2-ID0P.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=479 end=296991 sample=../Audio/GasFlowers/52E2-JZRW.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1046 end=295555 sample=../Audio/GasFlowers/53F2-5UE7.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=603 end=291307 sample=../Audio/GasFlowers/54F#2-PAS4.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=558 end=303539 sample=../Audio/GasFlowers/55G2-EM2K.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=640 end=302650 sample=../Audio/GasFlowers/56G#2-EL4K.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1022 end=301809 sample=../Audio/GasFlowers/57A2-WNPS.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=694 end=298106 sample=../Audio/GasFlowers/58A#2-Q1U0.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=546 end=291965 sample=../Audio/GasFlowers/59B2-D0N9.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=738 end=283359 sample=../Audio/GasFlowers/60C3-3M18.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=746 end=302728 sample=../Audio/GasFlowers/61C#3-W2WT.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=934 end=304897 sample=../Audio/GasFlowers/62D3-O2KS.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=678 sample=../Audio/GasFlowers/63D#3-NDU6.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=737 sample=../Audio/GasFlowers/64E3-JFLD.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=513 end=294426 sample=../Audio/GasFlowers/65F3-2XYG.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=493 end=285043 sample=../Audio/GasFlowers/66F#3-TFYJ.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 end=301660 sample=../Audio/GasFlowers/67G3-2WMY.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=734 end=302934 sample=../Audio/GasFlowers/68G#3-USVC.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=707 end=295191 sample=../Audio/GasFlowers/69A3-CP2B.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=801 sample=../Audio/GasFlowers/70A#3-7IE7.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=586 sample=../Audio/GasFlowers/71B3-6T1E.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=927 end=280807 sample=../Audio/GasFlowers/72C4-K4B0.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=742 end=300269 sample=../Audio/GasFlowers/73C#4-FHTR.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=794 end=301975 sample=../Audio/GasFlowers/74D4-ZC5G.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=789 end=294528 sample=../Audio/GasFlowers/75D#4-K0DL.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=786 end=277361 sample=../Audio/GasFlowers/76E4-94HK.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=933 end=280030 sample=../Audio/GasFlowers/77F4-5BTW.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=572 sample=../Audio/GasFlowers/78F#4-598G.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=649 end=298239 sample=../Audio/GasFlowers/79G4-ZQH6.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=560 sample=../Audio/GasFlowers/80G#4-5M52.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=913 sample=../Audio/GasFlowers/81A4-SDZD.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=960 end=277427 sample=../Audio/GasFlowers/82A#4-T8N9.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=663 end=275692 sample=../Audio/GasFlowers/83B4-OIJE.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=534 sample=../Audio/GasFlowers/84C5-MZZ6.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=575 end=280497 sample=../Audio/GasFlowers/85C#5-DCX6.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=632 sample=../Audio/GasFlowers/86D5-KO6U.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=878 end=276873 sample=../Audio/GasFlowers/87D#5-YLUA.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=903 end=266205 sample=../Audio/GasFlowers/88E5-58LX.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=582 end=265705 sample=../Audio/GasFlowers/89F5-86JH.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=770 end=276500 sample=../Audio/GasFlowers/90F#5-4JTG.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=493 end=277730 sample=../Audio/GasFlowers/91G5-Y28R.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=811 end=280283 sample=../Audio/GasFlowers/92G#5-ICJM.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=650 end=265997 sample=../Audio/GasFlowers/93A5-GJ2O.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=952 sample=../Audio/GasFlowers/94A#5-LP5O.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=602 end=279959 sample=../Audio/GasFlowers/95B5-VVIZ.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=907 end=280151 sample=../Audio/GasFlowers/96C6-K1UO.aif
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=636 end=292229 sample=../Audio/GasFlowers/36C1-P9GY.aif
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1012 end=300198 sample=../Audio/GasFlowers/37C#1-WZIK.aif
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=602 end=305919 sample=../Audio/GasFlowers/38D1-0CWP.aif
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=995 end=301321 sample=../Audio/GasFlowers/39D#1-W1Z5.aif
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=627 sample=../Audio/GasFlowers/40E1-H57U.aif
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=638 sample=../Audio/GasFlowers/41F1-KB36.aif
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=544 end=293718 sample=../Audio/GasFlowers/42F#1-53FP.aif
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=896 end=304919 sample=../Audio/GasFlowers/43G1-Q0VN.aif
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=948 end=303710 sample=../Audio/GasFlowers/44G#1-J9ND.aif
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=578 end=302738 sample=../Audio/GasFlowers/45A1-SSWA.aif
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=598 end=300165 sample=../Audio/GasFlowers/46A#1-3IHU.aif
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=904 end=302442 sample=../Audio/GasFlowers/47B1-1IWP.aif
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=747 end=299756 sample=../Audio/GasFlowers/48C2-P7VX.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=742 end=300264 sample=../Audio/GasFlowers/49C#2-TNVG.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=515 end=305263 sample=../Audio/GasFlowers/50D2-1SZ9.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=681 end=299268 sample=../Audio/GasFlowers/51D#2-ID0P.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=479 end=296991 sample=../Audio/GasFlowers/52E2-JZRW.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1046 end=295555 sample=../Audio/GasFlowers/53F2-5UE7.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=603 end=291307 sample=../Audio/GasFlowers/54F#2-PAS4.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=558 end=303539 sample=../Audio/GasFlowers/55G2-EM2K.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=640 end=302650 sample=../Audio/GasFlowers/56G#2-EL4K.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1022 end=301809 sample=../Audio/GasFlowers/57A2-WNPS.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=694 end=298106 sample=../Audio/GasFlowers/58A#2-Q1U0.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=546 end=291965 sample=../Audio/GasFlowers/59B2-D0N9.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=738 end=283359 sample=../Audio/GasFlowers/60C3-3M18.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=746 end=302728 sample=../Audio/GasFlowers/61C#3-W2WT.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=934 end=304897 sample=../Audio/GasFlowers/62D3-O2KS.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=678 sample=../Audio/GasFlowers/63D#3-NDU6.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=737 sample=../Audio/GasFlowers/64E3-JFLD.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=513 end=294426 sample=../Audio/GasFlowers/65F3-2XYG.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=493 end=285043 sample=../Audio/GasFlowers/66F#3-TFYJ.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=775 end=301660 sample=../Audio/GasFlowers/67G3-2WMY.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=734 end=302934 sample=../Audio/GasFlowers/68G#3-USVC.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=707 end=295191 sample=../Audio/GasFlowers/69A3-CP2B.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=801 sample=../Audio/GasFlowers/70A#3-7IE7.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=586 sample=../Audio/GasFlowers/71B3-6T1E.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=927 end=280807 sample=../Audio/GasFlowers/72C4-K4B0.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=742 end=300269 sample=../Audio/GasFlowers/73C#4-FHTR.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=794 end=301975 sample=../Audio/GasFlowers/74D4-ZC5G.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=789 end=294528 sample=../Audio/GasFlowers/75D#4-K0DL.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=786 end=277361 sample=../Audio/GasFlowers/76E4-94HK.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=933 end=280030 sample=../Audio/GasFlowers/77F4-5BTW.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=572 sample=../Audio/GasFlowers/78F#4-598G.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=649 end=298239 sample=../Audio/GasFlowers/79G4-ZQH6.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=560 sample=../Audio/GasFlowers/80G#4-5M52.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=913 sample=../Audio/GasFlowers/81A4-SDZD.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=960 end=277427 sample=../Audio/GasFlowers/82A#4-T8N9.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=663 end=275692 sample=../Audio/GasFlowers/83B4-OIJE.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=534 sample=../Audio/GasFlowers/84C5-MZZ6.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=575 end=280497 sample=../Audio/GasFlowers/85C#5-DCX6.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=632 sample=../Audio/GasFlowers/86D5-KO6U.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=878 end=276873 sample=../Audio/GasFlowers/87D#5-YLUA.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=903 end=266205 sample=../Audio/GasFlowers/88E5-58LX.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=582 end=265705 sample=../Audio/GasFlowers/89F5-86JH.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=770 end=276500 sample=../Audio/GasFlowers/90F#5-4JTG.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=493 end=277730 sample=../Audio/GasFlowers/91G5-Y28R.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=811 end=280283 sample=../Audio/GasFlowers/92G#5-ICJM.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=650 end=265997 sample=../Audio/GasFlowers/93A5-GJ2O.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=952 sample=../Audio/GasFlowers/94A#5-LP5O.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=602 end=279959 sample=../Audio/GasFlowers/95B5-VVIZ.aif
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=907 end=280151 sample=../Audio/GasFlowers/96C6-K1UO.aif

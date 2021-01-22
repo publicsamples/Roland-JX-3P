@@ -1,124 +1,124 @@
 // this file was generated from Ivor Biggun.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=720 end=122791 sample=../Audio/Ivor Biggun/0-YV4B.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=810 end=124445 sample=../Audio/Ivor Biggun/0-WS4F.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1169 sample=../Audio/Ivor Biggun/0-1Q03.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1056 end=123241 sample=../Audio/Ivor Biggun/0-08UD.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=950 end=120604 sample=../Audio/Ivor Biggun/0-CUKV.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=698 end=125938 sample=../Audio/Ivor Biggun/0-FNBG.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=804 end=124784 sample=../Audio/Ivor Biggun/0-90Z8.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=718 end=121424 sample=../Audio/Ivor Biggun/0-6QVB.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=752 end=123279 sample=../Audio/Ivor Biggun/0-4PN7.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=896 end=126240 sample=../Audio/Ivor Biggun/0-73MG.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=945 end=126894 sample=../Audio/Ivor Biggun/0-QTTQ.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=840 sample=../Audio/Ivor Biggun/0-P7BC.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=762 sample=../Audio/Ivor Biggun/0-C7UY.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=689 end=129824 sample=../Audio/Ivor Biggun/0-E70F.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=759 end=127506 sample=../Audio/Ivor Biggun/0-OVVS.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=865 end=128484 sample=../Audio/Ivor Biggun/0-DYLQ.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=843 end=128602 sample=../Audio/Ivor Biggun/0-3GV1.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=578 sample=../Audio/Ivor Biggun/0-CRPC.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=948 end=136245 sample=../Audio/Ivor Biggun/0-5Q6S.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=768 end=131679 sample=../Audio/Ivor Biggun/0-83L9.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=777 end=132078 sample=../Audio/Ivor Biggun/0-IYMU.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=940 end=131720 sample=../Audio/Ivor Biggun/0-RV0R.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=730 end=132957 sample=../Audio/Ivor Biggun/0-KJGI.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=790 sample=../Audio/Ivor Biggun/0-5O28.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=798 end=136197 sample=../Audio/Ivor Biggun/0-NA3C.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=950 end=137277 sample=../Audio/Ivor Biggun/0-PVL9.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=601 end=135209 sample=../Audio/Ivor Biggun/0-XHGG.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=799 end=138871 sample=../Audio/Ivor Biggun/0-QVUJ.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=689 end=138848 sample=../Audio/Ivor Biggun/0-ZICV.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1083 end=143891 sample=../Audio/Ivor Biggun/0-BTPH.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=832 end=139854 sample=../Audio/Ivor Biggun/0-4HJ3.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=661 end=139068 sample=../Audio/Ivor Biggun/0-Z5R4.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=801 end=138760 sample=../Audio/Ivor Biggun/0-8DOE.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=762 end=142391 sample=../Audio/Ivor Biggun/0-T6RR.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=961 end=141217 sample=../Audio/Ivor Biggun/0-6XLX.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=585 sample=../Audio/Ivor Biggun/0-K56R.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=767 sample=../Audio/Ivor Biggun/0-UIME.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1069 end=142351 sample=../Audio/Ivor Biggun/0-TS4C.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1005 end=140836 sample=../Audio/Ivor Biggun/0-SCF3.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=629 sample=../Audio/Ivor Biggun/0-Y7UH.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=794 end=143370 sample=../Audio/Ivor Biggun/0-6R3E.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=912 end=149252 sample=../Audio/Ivor Biggun/0-YRZR.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=946 end=145325 sample=../Audio/Ivor Biggun/0-F408.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=892 sample=../Audio/Ivor Biggun/0-XHDC.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=666 end=143118 sample=../Audio/Ivor Biggun/0-1DO6.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=641 end=144668 sample=../Audio/Ivor Biggun/0-0COE.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 end=145035 sample=../Audio/Ivor Biggun/0-D2HR.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=832 end=154261 sample=../Audio/Ivor Biggun/0-E6XE.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=853 end=147465 sample=../Audio/Ivor Biggun/0-VJMG.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=919 end=147476 sample=../Audio/Ivor Biggun/0-6X89.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=708 sample=../Audio/Ivor Biggun/0-G5XZ.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=761 end=148293 sample=../Audio/Ivor Biggun/0-T4OW.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=796 sample=../Audio/Ivor Biggun/0-HYF6.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=862 end=152879 sample=../Audio/Ivor Biggun/0-8KBB.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=626 end=149134 sample=../Audio/Ivor Biggun/0-49Y1.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=870 end=146184 sample=../Audio/Ivor Biggun/0-AJ7U.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=786 sample=../Audio/Ivor Biggun/0-Z2DX.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=695 sample=../Audio/Ivor Biggun/0-7SET.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=664 end=150846 sample=../Audio/Ivor Biggun/0-WNMK.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=634 sample=../Audio/Ivor Biggun/0-WSTN.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=696 sample=../Audio/Ivor Biggun/0-HTE0.aif
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=720 end=122791 sample=../Audio/Ivor Biggun/0-YV4B.aif
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=810 end=124445 sample=../Audio/Ivor Biggun/0-WS4F.aif
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1169 sample=../Audio/Ivor Biggun/0-1Q03.aif
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1056 end=123241 sample=../Audio/Ivor Biggun/0-08UD.aif
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=950 end=120604 sample=../Audio/Ivor Biggun/0-CUKV.aif
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=698 end=125938 sample=../Audio/Ivor Biggun/0-FNBG.aif
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=804 end=124784 sample=../Audio/Ivor Biggun/0-90Z8.aif
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=718 end=121424 sample=../Audio/Ivor Biggun/0-6QVB.aif
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=752 end=123279 sample=../Audio/Ivor Biggun/0-4PN7.aif
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=896 end=126240 sample=../Audio/Ivor Biggun/0-73MG.aif
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=945 end=126894 sample=../Audio/Ivor Biggun/0-QTTQ.aif
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=840 sample=../Audio/Ivor Biggun/0-P7BC.aif
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=762 sample=../Audio/Ivor Biggun/0-C7UY.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=689 end=129824 sample=../Audio/Ivor Biggun/0-E70F.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=759 end=127506 sample=../Audio/Ivor Biggun/0-OVVS.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=865 end=128484 sample=../Audio/Ivor Biggun/0-DYLQ.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=843 end=128602 sample=../Audio/Ivor Biggun/0-3GV1.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=578 sample=../Audio/Ivor Biggun/0-CRPC.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=948 end=136245 sample=../Audio/Ivor Biggun/0-5Q6S.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=768 end=131679 sample=../Audio/Ivor Biggun/0-83L9.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=777 end=132078 sample=../Audio/Ivor Biggun/0-IYMU.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=940 end=131720 sample=../Audio/Ivor Biggun/0-RV0R.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=730 end=132957 sample=../Audio/Ivor Biggun/0-KJGI.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=790 sample=../Audio/Ivor Biggun/0-5O28.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=798 end=136197 sample=../Audio/Ivor Biggun/0-NA3C.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=950 end=137277 sample=../Audio/Ivor Biggun/0-PVL9.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=601 end=135209 sample=../Audio/Ivor Biggun/0-XHGG.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=799 end=138871 sample=../Audio/Ivor Biggun/0-QVUJ.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=689 end=138848 sample=../Audio/Ivor Biggun/0-ZICV.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1083 end=143891 sample=../Audio/Ivor Biggun/0-BTPH.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=832 end=139854 sample=../Audio/Ivor Biggun/0-4HJ3.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=661 end=139068 sample=../Audio/Ivor Biggun/0-Z5R4.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=801 end=138760 sample=../Audio/Ivor Biggun/0-8DOE.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=762 end=142391 sample=../Audio/Ivor Biggun/0-T6RR.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=961 end=141217 sample=../Audio/Ivor Biggun/0-6XLX.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=585 sample=../Audio/Ivor Biggun/0-K56R.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=767 sample=../Audio/Ivor Biggun/0-UIME.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1069 end=142351 sample=../Audio/Ivor Biggun/0-TS4C.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1005 end=140836 sample=../Audio/Ivor Biggun/0-SCF3.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=629 sample=../Audio/Ivor Biggun/0-Y7UH.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=794 end=143370 sample=../Audio/Ivor Biggun/0-6R3E.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=912 end=149252 sample=../Audio/Ivor Biggun/0-YRZR.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=946 end=145325 sample=../Audio/Ivor Biggun/0-F408.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=892 sample=../Audio/Ivor Biggun/0-XHDC.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=666 end=143118 sample=../Audio/Ivor Biggun/0-1DO6.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=641 end=144668 sample=../Audio/Ivor Biggun/0-0COE.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=631 end=145035 sample=../Audio/Ivor Biggun/0-D2HR.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=832 end=154261 sample=../Audio/Ivor Biggun/0-E6XE.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=853 end=147465 sample=../Audio/Ivor Biggun/0-VJMG.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=919 end=147476 sample=../Audio/Ivor Biggun/0-6X89.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=708 sample=../Audio/Ivor Biggun/0-G5XZ.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=761 end=148293 sample=../Audio/Ivor Biggun/0-T4OW.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=796 sample=../Audio/Ivor Biggun/0-HYF6.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=862 end=152879 sample=../Audio/Ivor Biggun/0-8KBB.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=626 end=149134 sample=../Audio/Ivor Biggun/0-49Y1.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=870 end=146184 sample=../Audio/Ivor Biggun/0-AJ7U.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=786 sample=../Audio/Ivor Biggun/0-Z2DX.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=695 sample=../Audio/Ivor Biggun/0-7SET.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=664 end=150846 sample=../Audio/Ivor Biggun/0-WNMK.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=634 sample=../Audio/Ivor Biggun/0-WSTN.aif
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=696 sample=../Audio/Ivor Biggun/0-HTE0.aif

@@ -1,124 +1,124 @@
 // this file was generated from Sync Down.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=956 end=292291 sample=../Audio/Sync Down/0-GMUQ.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=889 sample=../Audio/Sync Down/0-HTCY.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1014 end=295967 sample=../Audio/Sync Down/0-1MT4.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=644 end=294781 sample=../Audio/Sync Down/0-782K.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=697 end=289664 sample=../Audio/Sync Down/0-8IDI.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=885 end=290560 sample=../Audio/Sync Down/0-5G7N.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=517 sample=../Audio/Sync Down/0-J94B.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=865 end=289322 sample=../Audio/Sync Down/0-PRA9.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=755 sample=../Audio/Sync Down/0-GCJH.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=703 sample=../Audio/Sync Down/0-GHC3.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1112 end=287849 sample=../Audio/Sync Down/0-CQAJ.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=919 end=294164 sample=../Audio/Sync Down/0-50H0.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=944 end=291072 sample=../Audio/Sync Down/0-7UL8.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=678 end=289019 sample=../Audio/Sync Down/0-A0DQ.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=903 end=296214 sample=../Audio/Sync Down/0-ZRPK.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 end=294743 sample=../Audio/Sync Down/0-NSSV.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=854 end=287872 sample=../Audio/Sync Down/0-7ESB.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=768 end=291488 sample=../Audio/Sync Down/0-OTBR.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=822 end=292167 sample=../Audio/Sync Down/0-UGX8.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=801 end=288075 sample=../Audio/Sync Down/0-3Q14.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=945 end=296589 sample=../Audio/Sync Down/0-JEO1.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=570 end=295504 sample=../Audio/Sync Down/0-PBMF.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=647 end=289655 sample=../Audio/Sync Down/0-J0MJ.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1021 sample=../Audio/Sync Down/0-Q46X.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=719 sample=../Audio/Sync Down/0-Z08T.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=543 end=286368 sample=../Audio/Sync Down/0-QLI0.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=683 sample=../Audio/Sync Down/0-B5CL.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=972 end=296276 sample=../Audio/Sync Down/0-PM1F.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=915 end=289602 sample=../Audio/Sync Down/0-SVYH.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1053 end=290048 sample=../Audio/Sync Down/0-1S4A.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=904 sample=../Audio/Sync Down/0-PCG1.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=701 sample=../Audio/Sync Down/0-P3O7.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=660 sample=../Audio/Sync Down/0-139Z.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=717 end=295966 sample=../Audio/Sync Down/0-20NA.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=698 sample=../Audio/Sync Down/0-WDZ4.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=591 end=294546 sample=../Audio/Sync Down/0-KCTC.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1001 end=295850 sample=../Audio/Sync Down/0-2AG5.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=548 sample=../Audio/Sync Down/0-72DR.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=526 sample=../Audio/Sync Down/0-UOPN.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=786 end=295474 sample=../Audio/Sync Down/0-5OOO.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=877 sample=../Audio/Sync Down/0-RB4Z.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=628 sample=../Audio/Sync Down/0-GWH6.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1039 end=294589 sample=../Audio/Sync Down/0-RYRS.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=590 end=288256 sample=../Audio/Sync Down/0-8SOK.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=624 end=294983 sample=../Audio/Sync Down/0-L900.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=782 sample=../Audio/Sync Down/0-46GG.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=895 sample=../Audio/Sync Down/0-42RG.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=831 sample=../Audio/Sync Down/0-N368.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=641 end=294139 sample=../Audio/Sync Down/0-7UME.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=791 end=288482 sample=../Audio/Sync Down/0-71OV.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=963 end=296218 sample=../Audio/Sync Down/0-E5FM.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=684 end=294521 sample=../Audio/Sync Down/0-NMWH.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1124 end=290725 sample=../Audio/Sync Down/0-F2JB.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=638 end=294493 sample=../Audio/Sync Down/0-DL3O.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=585 end=294727 sample=../Audio/Sync Down/0-RPZF.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=562 end=287861 sample=../Audio/Sync Down/0-702B.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1077 end=296026 sample=../Audio/Sync Down/0-5JZP.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=944 end=296048 sample=../Audio/Sync Down/0-OM4K.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1011 end=292942 sample=../Audio/Sync Down/0-05QG.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=648 sample=../Audio/Sync Down/0-VWZU.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=950 end=294574 sample=../Audio/Sync Down/0-8ZDQ.aif
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=956 end=292291 sample=../Audio/Sync Down/0-GMUQ.aif
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=889 sample=../Audio/Sync Down/0-HTCY.aif
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1014 end=295967 sample=../Audio/Sync Down/0-1MT4.aif
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=644 end=294781 sample=../Audio/Sync Down/0-782K.aif
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=697 end=289664 sample=../Audio/Sync Down/0-8IDI.aif
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=885 end=290560 sample=../Audio/Sync Down/0-5G7N.aif
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=517 sample=../Audio/Sync Down/0-J94B.aif
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=865 end=289322 sample=../Audio/Sync Down/0-PRA9.aif
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=755 sample=../Audio/Sync Down/0-GCJH.aif
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=703 sample=../Audio/Sync Down/0-GHC3.aif
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1112 end=287849 sample=../Audio/Sync Down/0-CQAJ.aif
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=919 end=294164 sample=../Audio/Sync Down/0-50H0.aif
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=944 end=291072 sample=../Audio/Sync Down/0-7UL8.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=678 end=289019 sample=../Audio/Sync Down/0-A0DQ.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=903 end=296214 sample=../Audio/Sync Down/0-ZRPK.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=775 end=294743 sample=../Audio/Sync Down/0-NSSV.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=854 end=287872 sample=../Audio/Sync Down/0-7ESB.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=768 end=291488 sample=../Audio/Sync Down/0-OTBR.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=822 end=292167 sample=../Audio/Sync Down/0-UGX8.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=801 end=288075 sample=../Audio/Sync Down/0-3Q14.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=945 end=296589 sample=../Audio/Sync Down/0-JEO1.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=570 end=295504 sample=../Audio/Sync Down/0-PBMF.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=647 end=289655 sample=../Audio/Sync Down/0-J0MJ.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1021 sample=../Audio/Sync Down/0-Q46X.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=719 sample=../Audio/Sync Down/0-Z08T.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=543 end=286368 sample=../Audio/Sync Down/0-QLI0.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=683 sample=../Audio/Sync Down/0-B5CL.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=972 end=296276 sample=../Audio/Sync Down/0-PM1F.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=915 end=289602 sample=../Audio/Sync Down/0-SVYH.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1053 end=290048 sample=../Audio/Sync Down/0-1S4A.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=904 sample=../Audio/Sync Down/0-PCG1.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=701 sample=../Audio/Sync Down/0-P3O7.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=660 sample=../Audio/Sync Down/0-139Z.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=717 end=295966 sample=../Audio/Sync Down/0-20NA.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=698 sample=../Audio/Sync Down/0-WDZ4.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=591 end=294546 sample=../Audio/Sync Down/0-KCTC.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1001 end=295850 sample=../Audio/Sync Down/0-2AG5.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=548 sample=../Audio/Sync Down/0-72DR.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=526 sample=../Audio/Sync Down/0-UOPN.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=786 end=295474 sample=../Audio/Sync Down/0-5OOO.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=877 sample=../Audio/Sync Down/0-RB4Z.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=628 sample=../Audio/Sync Down/0-GWH6.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1039 end=294589 sample=../Audio/Sync Down/0-RYRS.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=590 end=288256 sample=../Audio/Sync Down/0-8SOK.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=624 end=294983 sample=../Audio/Sync Down/0-L900.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=782 sample=../Audio/Sync Down/0-46GG.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=895 sample=../Audio/Sync Down/0-42RG.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=831 sample=../Audio/Sync Down/0-N368.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=641 end=294139 sample=../Audio/Sync Down/0-7UME.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=791 end=288482 sample=../Audio/Sync Down/0-71OV.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=963 end=296218 sample=../Audio/Sync Down/0-E5FM.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=684 end=294521 sample=../Audio/Sync Down/0-NMWH.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1124 end=290725 sample=../Audio/Sync Down/0-F2JB.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=638 end=294493 sample=../Audio/Sync Down/0-DL3O.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=585 end=294727 sample=../Audio/Sync Down/0-RPZF.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=562 end=287861 sample=../Audio/Sync Down/0-702B.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1077 end=296026 sample=../Audio/Sync Down/0-5JZP.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=944 end=296048 sample=../Audio/Sync Down/0-OM4K.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1011 end=292942 sample=../Audio/Sync Down/0-05QG.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=648 sample=../Audio/Sync Down/0-VWZU.aif
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=950 end=294574 sample=../Audio/Sync Down/0-8ZDQ.aif

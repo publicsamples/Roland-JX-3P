@@ -1,124 +1,124 @@
 // this file was generated from Wobble Brass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230504 loop_end=267102 sample=../Audio/Wobble Brass/(201324 231639)/0-L9IA.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290392 loop_end=387618 sample=../Audio/Wobble Brass/(201324 231639)/0-72Z5.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=307802 loop_end=368184 sample=../Audio/Wobble Brass/(201324 231639)/0-57KX.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267823 loop_end=400024 sample=../Audio/Wobble Brass/(201324 231639)/0-LEB1.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=292416 loop_end=398932 sample=../Audio/Wobble Brass/(201324 231639)/0-YP3O.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255464 loop_end=385440 sample=../Audio/Wobble Brass/(201324 231639)/0-GON6.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270787 loop_end=330204 sample=../Audio/Wobble Brass/(201324 231639)/0-N37Y.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220275 loop_end=398487 sample=../Audio/Wobble Brass/(201324 231639)/0-IUGL.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239497 loop_end=394048 sample=../Audio/Wobble Brass/(201324 231639)/0-WFAH.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329160 loop_end=400884 sample=../Audio/Wobble Brass/(201324 231639)/0-PT24.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238302 loop_end=297638 sample=../Audio/Wobble Brass/(201324 231639)/0-QNYP.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328340 loop_end=400139 sample=../Audio/Wobble Brass/(201324 231639)/0-R2V8.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276556 loop_end=396507 sample=../Audio/Wobble Brass/(201324 231639)/0-IF3T.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328134 loop_end=400408 sample=../Audio/Wobble Brass/(201324 231639)/0-V48Q.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315193 loop_end=399117 sample=../Audio/Wobble Brass/(201324 231639)/0-3IAN.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243296 loop_end=398862 sample=../Audio/Wobble Brass/(201324 231639)/0-4HXK.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262948 loop_end=346852 sample=../Audio/Wobble Brass/(201324 231639)/0-LOCI.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261507 loop_end=381320 sample=../Audio/Wobble Brass/(201324 231639)/0-87O9.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240235 loop_end=360033 sample=../Audio/Wobble Brass/(201324 231639)/0-6VYG.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257054 loop_end=389133 sample=../Audio/Wobble Brass/(201324 231639)/0-LRGQ.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256279 loop_end=400575 sample=../Audio/Wobble Brass/(201324 231639)/0-B89P.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236147 loop_end=392892 sample=../Audio/Wobble Brass/(201324 231639)/0-7LRD.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270368 loop_end=330837 sample=../Audio/Wobble Brass/(201324 231639)/0-32Y8.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238215 loop_end=371389 sample=../Audio/Wobble Brass/(201324 231639)/0-SX96.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=306697 loop_end=391740 sample=../Audio/Wobble Brass/(201324 231639)/0-IFNE.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241239 loop_end=398896 sample=../Audio/Wobble Brass/(201324 231639)/0-7TBE.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235499 loop_end=393071 sample=../Audio/Wobble Brass/(201324 231639)/0-ALHW.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=219630 loop_end=377189 sample=../Audio/Wobble Brass/(201324 231639)/0-MZVY.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228809 loop_end=386386 sample=../Audio/Wobble Brass/(201324 231639)/0-K4KL.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=222084 loop_end=379703 sample=../Audio/Wobble Brass/(201324 231639)/0-GR5F.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229304 loop_end=387197 sample=../Audio/Wobble Brass/(201324 231639)/0-D2HP.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278556 loop_end=375794 sample=../Audio/Wobble Brass/(201324 231639)/0-628J.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236907 loop_end=358805 sample=../Audio/Wobble Brass/(201324 231639)/0-AP4N.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232333 loop_end=391093 sample=../Audio/Wobble Brass/(201324 231639)/0-GNDG.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223430 loop_end=260319 sample=../Audio/Wobble Brass/(201324 231639)/0-UZW6.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333992 loop_end=370963 sample=../Audio/Wobble Brass/(201324 231639)/0-XRHJ.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223423 loop_end=272543 sample=../Audio/Wobble Brass/(201324 231639)/0-1RNJ.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289340 loop_end=375348 sample=../Audio/Wobble Brass/(201324 231639)/0-O190.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263910 loop_end=325338 sample=../Audio/Wobble Brass/(201324 231639)/0-ZNQQ.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299335 loop_end=348462 sample=../Audio/Wobble Brass/(201324 231639)/0-H58L.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340254 loop_end=377093 sample=../Audio/Wobble Brass/(201324 231639)/0-XIXC.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295202 loop_end=356624 sample=../Audio/Wobble Brass/(201324 231639)/0-163A.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283673 loop_end=320561 sample=../Audio/Wobble Brass/(201324 231639)/0-V202.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276712 loop_end=313562 sample=../Audio/Wobble Brass/(201324 231639)/0-DS2I.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340259 loop_end=377075 sample=../Audio/Wobble Brass/(201324 231639)/0-B8Z6.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227195 loop_end=400260 sample=../Audio/Wobble Brass/(201324 231639)/0-NJ9L.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276715 loop_end=400659 sample=../Audio/Wobble Brass/(201324 231639)/0-0U5Q.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270363 loop_end=369583 sample=../Audio/Wobble Brass/(201324 231639)/0-D296.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280525 loop_end=367642 sample=../Audio/Wobble Brass/(201324 231639)/0-1BG5.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251844 loop_end=338939 sample=../Audio/Wobble Brass/(201324 231639)/0-AOZM.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=293944 loop_end=380997 sample=../Audio/Wobble Brass/(201324 231639)/0-AUBW.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274764 loop_end=361841 sample=../Audio/Wobble Brass/(201324 231639)/0-Y0J8.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285361 loop_end=372447 sample=../Audio/Wobble Brass/(201324 231639)/0-8LCS.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231836 loop_end=318854 sample=../Audio/Wobble Brass/(201324 231639)/0-NEZZ.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238920 loop_end=326027 sample=../Audio/Wobble Brass/(201324 231639)/0-44HH.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288674 loop_end=363448 sample=../Audio/Wobble Brass/(201324 231639)/0-TRPI.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=300407 loop_end=362853 sample=../Audio/Wobble Brass/(201324 231639)/0-RRDI.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287939 loop_end=400583 sample=../Audio/Wobble Brass/(201324 231639)/0-HF5X.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282380 loop_end=332599 sample=../Audio/Wobble Brass/(201324 231639)/0-J695.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259229 loop_end=397473 sample=../Audio/Wobble Brass/(201324 231639)/0-8043.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274677 loop_end=400653 sample=../Audio/Wobble Brass/(201324 231639)/0-3AEW.aif
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=230504 loop_end=267102 sample=../Audio/Wobble Brass/(201324 231639)/0-L9IA.aif
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=290392 loop_end=387618 sample=../Audio/Wobble Brass/(201324 231639)/0-72Z5.aif
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=307802 loop_end=368184 sample=../Audio/Wobble Brass/(201324 231639)/0-57KX.aif
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=267823 loop_end=400024 sample=../Audio/Wobble Brass/(201324 231639)/0-LEB1.aif
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=292416 loop_end=398932 sample=../Audio/Wobble Brass/(201324 231639)/0-YP3O.aif
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=255464 loop_end=385440 sample=../Audio/Wobble Brass/(201324 231639)/0-GON6.aif
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=270787 loop_end=330204 sample=../Audio/Wobble Brass/(201324 231639)/0-N37Y.aif
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=220275 loop_end=398487 sample=../Audio/Wobble Brass/(201324 231639)/0-IUGL.aif
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=239497 loop_end=394048 sample=../Audio/Wobble Brass/(201324 231639)/0-WFAH.aif
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=329160 loop_end=400884 sample=../Audio/Wobble Brass/(201324 231639)/0-PT24.aif
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=238302 loop_end=297638 sample=../Audio/Wobble Brass/(201324 231639)/0-QNYP.aif
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=328340 loop_end=400139 sample=../Audio/Wobble Brass/(201324 231639)/0-R2V8.aif
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=276556 loop_end=396507 sample=../Audio/Wobble Brass/(201324 231639)/0-IF3T.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=328134 loop_end=400408 sample=../Audio/Wobble Brass/(201324 231639)/0-V48Q.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=315193 loop_end=399117 sample=../Audio/Wobble Brass/(201324 231639)/0-3IAN.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=243296 loop_end=398862 sample=../Audio/Wobble Brass/(201324 231639)/0-4HXK.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=262948 loop_end=346852 sample=../Audio/Wobble Brass/(201324 231639)/0-LOCI.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=261507 loop_end=381320 sample=../Audio/Wobble Brass/(201324 231639)/0-87O9.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=240235 loop_end=360033 sample=../Audio/Wobble Brass/(201324 231639)/0-6VYG.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=257054 loop_end=389133 sample=../Audio/Wobble Brass/(201324 231639)/0-LRGQ.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=256279 loop_end=400575 sample=../Audio/Wobble Brass/(201324 231639)/0-B89P.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=236147 loop_end=392892 sample=../Audio/Wobble Brass/(201324 231639)/0-7LRD.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=270368 loop_end=330837 sample=../Audio/Wobble Brass/(201324 231639)/0-32Y8.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=238215 loop_end=371389 sample=../Audio/Wobble Brass/(201324 231639)/0-SX96.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=306697 loop_end=391740 sample=../Audio/Wobble Brass/(201324 231639)/0-IFNE.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=241239 loop_end=398896 sample=../Audio/Wobble Brass/(201324 231639)/0-7TBE.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=235499 loop_end=393071 sample=../Audio/Wobble Brass/(201324 231639)/0-ALHW.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=219630 loop_end=377189 sample=../Audio/Wobble Brass/(201324 231639)/0-MZVY.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=228809 loop_end=386386 sample=../Audio/Wobble Brass/(201324 231639)/0-K4KL.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=222084 loop_end=379703 sample=../Audio/Wobble Brass/(201324 231639)/0-GR5F.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=229304 loop_end=387197 sample=../Audio/Wobble Brass/(201324 231639)/0-D2HP.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=278556 loop_end=375794 sample=../Audio/Wobble Brass/(201324 231639)/0-628J.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=236907 loop_end=358805 sample=../Audio/Wobble Brass/(201324 231639)/0-AP4N.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=232333 loop_end=391093 sample=../Audio/Wobble Brass/(201324 231639)/0-GNDG.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=223430 loop_end=260319 sample=../Audio/Wobble Brass/(201324 231639)/0-UZW6.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=333992 loop_end=370963 sample=../Audio/Wobble Brass/(201324 231639)/0-XRHJ.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=223423 loop_end=272543 sample=../Audio/Wobble Brass/(201324 231639)/0-1RNJ.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=289340 loop_end=375348 sample=../Audio/Wobble Brass/(201324 231639)/0-O190.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=263910 loop_end=325338 sample=../Audio/Wobble Brass/(201324 231639)/0-ZNQQ.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=299335 loop_end=348462 sample=../Audio/Wobble Brass/(201324 231639)/0-H58L.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=340254 loop_end=377093 sample=../Audio/Wobble Brass/(201324 231639)/0-XIXC.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=295202 loop_end=356624 sample=../Audio/Wobble Brass/(201324 231639)/0-163A.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=283673 loop_end=320561 sample=../Audio/Wobble Brass/(201324 231639)/0-V202.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=276712 loop_end=313562 sample=../Audio/Wobble Brass/(201324 231639)/0-DS2I.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=340259 loop_end=377075 sample=../Audio/Wobble Brass/(201324 231639)/0-B8Z6.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=227195 loop_end=400260 sample=../Audio/Wobble Brass/(201324 231639)/0-NJ9L.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=276715 loop_end=400659 sample=../Audio/Wobble Brass/(201324 231639)/0-0U5Q.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=270363 loop_end=369583 sample=../Audio/Wobble Brass/(201324 231639)/0-D296.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=280525 loop_end=367642 sample=../Audio/Wobble Brass/(201324 231639)/0-1BG5.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=251844 loop_end=338939 sample=../Audio/Wobble Brass/(201324 231639)/0-AOZM.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=293944 loop_end=380997 sample=../Audio/Wobble Brass/(201324 231639)/0-AUBW.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=274764 loop_end=361841 sample=../Audio/Wobble Brass/(201324 231639)/0-Y0J8.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=285361 loop_end=372447 sample=../Audio/Wobble Brass/(201324 231639)/0-8LCS.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=231836 loop_end=318854 sample=../Audio/Wobble Brass/(201324 231639)/0-NEZZ.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=238920 loop_end=326027 sample=../Audio/Wobble Brass/(201324 231639)/0-44HH.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=288674 loop_end=363448 sample=../Audio/Wobble Brass/(201324 231639)/0-TRPI.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=300407 loop_end=362853 sample=../Audio/Wobble Brass/(201324 231639)/0-RRDI.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=287939 loop_end=400583 sample=../Audio/Wobble Brass/(201324 231639)/0-HF5X.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=282380 loop_end=332599 sample=../Audio/Wobble Brass/(201324 231639)/0-J695.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=259229 loop_end=397473 sample=../Audio/Wobble Brass/(201324 231639)/0-8043.aif
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=274677 loop_end=400653 sample=../Audio/Wobble Brass/(201324 231639)/0-3AEW.aif

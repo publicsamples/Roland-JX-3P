@@ -1,124 +1,124 @@
 // this file was generated from BigJX.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=7 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=949 end=516717 sample=../Audio/BigJX/36C1-BNS7.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1182 end=514176 sample=../Audio/BigJX/37C#1-DR18.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1377 end=517252 sample=../Audio/BigJX/38D1-GACJ.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1208 end=516727 sample=../Audio/BigJX/39D#1-77L9.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1159 end=518601 sample=../Audio/BigJX/40E1-F4XG.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1353 sample=../Audio/BigJX/41F1-MG7N.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1043 end=514013 sample=../Audio/BigJX/42F#1-XMT4.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1092 end=514781 sample=../Audio/BigJX/43G1-NGCT.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1163 end=516488 sample=../Audio/BigJX/44G#1-QNDL.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1330 sample=../Audio/BigJX/45A1-33KA.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=919 sample=../Audio/BigJX/46A#1-JJKP.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1337 end=516992 sample=../Audio/BigJX/47B1-0BS8.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1257 sample=../Audio/BigJX/48C2-C4AM.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1187 end=515201 sample=../Audio/BigJX/49C#2-FJR4.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1216 end=515456 sample=../Audio/BigJX/50D2-CQRS.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1401 end=514911 sample=../Audio/BigJX/51D#2-K44C.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1326 sample=../Audio/BigJX/52E2-TEIO.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 end=516033 sample=../Audio/BigJX/53F2-9MQK.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1066 end=514012 sample=../Audio/BigJX/54F#2-GIR5.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1169 end=515076 sample=../Audio/BigJX/55G2-VY5Y.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1381 end=514688 sample=../Audio/BigJX/56G#2-08UN.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1265 end=524128 sample=../Audio/BigJX/57A2-132P.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=924 end=525675 sample=../Audio/BigJX/58A#2-PQBO.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1405 end=522161 sample=../Audio/BigJX/59B2-JOZV.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1100 end=526733 sample=../Audio/BigJX/60C3-G6EO.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1294 end=523165 sample=../Audio/BigJX/61C#3-XXPI.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1469 end=523191 sample=../Audio/BigJX/62D3-9MBK.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1539 end=523623 sample=../Audio/BigJX/63D#3-H621.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1017 end=535787 sample=../Audio/BigJX/64E3-GMGB.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1106 end=523206 sample=../Audio/BigJX/65F3-AT5N.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1276 end=519876 sample=../Audio/BigJX/66F#3-HV61.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=962 sample=../Audio/BigJX/67G3-L1AS.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1244 end=533168 sample=../Audio/BigJX/68G#3-VW6N.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1315 sample=../Audio/BigJX/69A3-PNNE.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1161 end=536905 sample=../Audio/BigJX/70A#3-60AH.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=973 sample=../Audio/BigJX/71B3-V3EF.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1219 end=533384 sample=../Audio/BigJX/72C4-U583.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1120 sample=../Audio/BigJX/73C#4-K00V.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1530 end=536960 sample=../Audio/BigJX/74D4-Y8MN.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1246 sample=../Audio/BigJX/75D#4-R4BL.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1291 end=533637 sample=../Audio/BigJX/76E4-6N9C.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1338 end=539555 sample=../Audio/BigJX/77F4-RW1G.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1307 end=535512 sample=../Audio/BigJX/78F#4-3344.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1363 sample=../Audio/BigJX/79G4-YPRD.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1094 end=537099 sample=../Audio/BigJX/80G#4-T1WY.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1401 end=540586 sample=../Audio/BigJX/81A4-ZK8O.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1215 end=535611 sample=../Audio/BigJX/82A#4-D7TO.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1005 sample=../Audio/BigJX/83B4-GLH4.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1391 end=533095 sample=../Audio/BigJX/84C5-8FVC.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1149 sample=../Audio/BigJX/85C#5-E151.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1392 end=537759 sample=../Audio/BigJX/86D5-OD73.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1662 sample=../Audio/BigJX/87D#5-I0XW.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1476 end=538937 sample=../Audio/BigJX/88E5-DE1G.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=992 end=539284 sample=../Audio/BigJX/89F5-JWSM.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=982 end=532421 sample=../Audio/BigJX/90F#5-47AI.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1085 sample=../Audio/BigJX/91G5-3G9L.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1405 end=537270 sample=../Audio/BigJX/92G#5-KF71.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1489 end=542296 sample=../Audio/BigJX/93A5-Q4CJ.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1147 sample=../Audio/BigJX/94A#5-4O76.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1257 sample=../Audio/BigJX/95B5-7EFG.aif
-<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1236 sample=../Audio/BigJX/96C6-AYNG.aif
+<group>lokey=7 hikey=36 pitch_keycenter=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=949 end=516717 sample=../Audio/BigJX/36C1-BNS7.aif
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1182 end=514176 sample=../Audio/BigJX/37C#1-DR18.aif
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1377 end=517252 sample=../Audio/BigJX/38D1-GACJ.aif
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1208 end=516727 sample=../Audio/BigJX/39D#1-77L9.aif
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1159 end=518601 sample=../Audio/BigJX/40E1-F4XG.aif
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1353 sample=../Audio/BigJX/41F1-MG7N.aif
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1043 end=514013 sample=../Audio/BigJX/42F#1-XMT4.aif
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1092 end=514781 sample=../Audio/BigJX/43G1-NGCT.aif
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1163 end=516488 sample=../Audio/BigJX/44G#1-QNDL.aif
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1330 sample=../Audio/BigJX/45A1-33KA.aif
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=919 sample=../Audio/BigJX/46A#1-JJKP.aif
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1337 end=516992 sample=../Audio/BigJX/47B1-0BS8.aif
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1257 sample=../Audio/BigJX/48C2-C4AM.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1187 end=515201 sample=../Audio/BigJX/49C#2-FJR4.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1216 end=515456 sample=../Audio/BigJX/50D2-CQRS.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1401 end=514911 sample=../Audio/BigJX/51D#2-K44C.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1326 sample=../Audio/BigJX/52E2-TEIO.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=895 end=516033 sample=../Audio/BigJX/53F2-9MQK.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1066 end=514012 sample=../Audio/BigJX/54F#2-GIR5.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1169 end=515076 sample=../Audio/BigJX/55G2-VY5Y.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1381 end=514688 sample=../Audio/BigJX/56G#2-08UN.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1265 end=524128 sample=../Audio/BigJX/57A2-132P.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=924 end=525675 sample=../Audio/BigJX/58A#2-PQBO.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1405 end=522161 sample=../Audio/BigJX/59B2-JOZV.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1100 end=526733 sample=../Audio/BigJX/60C3-G6EO.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1294 end=523165 sample=../Audio/BigJX/61C#3-XXPI.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1469 end=523191 sample=../Audio/BigJX/62D3-9MBK.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1539 end=523623 sample=../Audio/BigJX/63D#3-H621.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1017 end=535787 sample=../Audio/BigJX/64E3-GMGB.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1106 end=523206 sample=../Audio/BigJX/65F3-AT5N.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1276 end=519876 sample=../Audio/BigJX/66F#3-HV61.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=962 sample=../Audio/BigJX/67G3-L1AS.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1244 end=533168 sample=../Audio/BigJX/68G#3-VW6N.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1315 sample=../Audio/BigJX/69A3-PNNE.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1161 end=536905 sample=../Audio/BigJX/70A#3-60AH.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=973 sample=../Audio/BigJX/71B3-V3EF.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1219 end=533384 sample=../Audio/BigJX/72C4-U583.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1120 sample=../Audio/BigJX/73C#4-K00V.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1530 end=536960 sample=../Audio/BigJX/74D4-Y8MN.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1246 sample=../Audio/BigJX/75D#4-R4BL.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1291 end=533637 sample=../Audio/BigJX/76E4-6N9C.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1338 end=539555 sample=../Audio/BigJX/77F4-RW1G.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1307 end=535512 sample=../Audio/BigJX/78F#4-3344.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1363 sample=../Audio/BigJX/79G4-YPRD.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1094 end=537099 sample=../Audio/BigJX/80G#4-T1WY.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1401 end=540586 sample=../Audio/BigJX/81A4-ZK8O.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1215 end=535611 sample=../Audio/BigJX/82A#4-D7TO.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1005 sample=../Audio/BigJX/83B4-GLH4.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1391 end=533095 sample=../Audio/BigJX/84C5-8FVC.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1149 sample=../Audio/BigJX/85C#5-E151.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1392 end=537759 sample=../Audio/BigJX/86D5-OD73.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1662 sample=../Audio/BigJX/87D#5-I0XW.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1476 end=538937 sample=../Audio/BigJX/88E5-DE1G.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=992 end=539284 sample=../Audio/BigJX/89F5-JWSM.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=982 end=532421 sample=../Audio/BigJX/90F#5-47AI.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1085 sample=../Audio/BigJX/91G5-3G9L.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1405 end=537270 sample=../Audio/BigJX/92G#5-KF71.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1489 end=542296 sample=../Audio/BigJX/93A5-Q4CJ.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1147 sample=../Audio/BigJX/94A#5-4O76.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1257 sample=../Audio/BigJX/95B5-7EFG.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1236 sample=../Audio/BigJX/96C6-AYNG.aif

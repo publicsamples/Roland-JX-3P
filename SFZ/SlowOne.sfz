@@ -1,124 +1,124 @@
 // this file was generated from SlowOne.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236904 loop_end=328949 sample=../Audio/SlowOne/(201355 214518)/36C1-7YKK.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=307822 loop_end=399815 sample=../Audio/SlowOne/(201355 214518)/37C#1-QIWT.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227670 loop_end=316884 sample=../Audio/SlowOne/(201355 214518)/38D1-NS9G.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238929 loop_end=329984 sample=../Audio/SlowOne/(201355 214518)/39D#1-LFKK.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234726 loop_end=326043 sample=../Audio/SlowOne/(201355 214518)/40E1-PNCG.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291967 loop_end=383217 sample=../Audio/SlowOne/(201355 214518)/41F1-VTTR.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278550 loop_end=369469 sample=../Audio/SlowOne/(201355 214518)/42F#1-OKTT.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248282 loop_end=338621 sample=../Audio/SlowOne/(201355 214518)/43G1-FHP2.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=300258 loop_end=391496 sample=../Audio/SlowOne/(201355 214518)/44G#1-KS8Y.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283308 loop_end=374247 sample=../Audio/SlowOne/(201355 214518)/45A1-TWS3.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254144 loop_end=345304 sample=../Audio/SlowOne/(201355 214518)/46A#1-L66M.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241892 loop_end=332954 sample=../Audio/SlowOne/(201355 214518)/47B1-MWG7.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267619 loop_end=358304 sample=../Audio/SlowOne/(201355 214518)/48C2-CTP9.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285219 loop_end=375919 sample=../Audio/SlowOne/(201355 214518)/49C#2-HVWD.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282693 loop_end=373723 sample=../Audio/SlowOne/(201355 214518)/50D2-0LIU.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238505 loop_end=329550 sample=../Audio/SlowOne/(201355 214518)/51D#2-CEEH.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268335 loop_end=359106 sample=../Audio/SlowOne/(201355 214518)/52E2-45GX.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299491 loop_end=390751 sample=../Audio/SlowOne/(201355 214518)/53F2-CBYU.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276387 loop_end=367792 sample=../Audio/SlowOne/(201355 214518)/54F#2-Y8HI.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228529 loop_end=319773 sample=../Audio/SlowOne/(201355 214518)/55G2-U6A5.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266745 loop_end=357551 sample=../Audio/SlowOne/(201355 214518)/56G#2-DQ6D.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=297032 loop_end=387969 sample=../Audio/SlowOne/(201355 214518)/57A2-4949.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248119 loop_end=338885 sample=../Audio/SlowOne/(201355 214518)/58A#2-WY3A.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=292419 loop_end=383476 sample=../Audio/SlowOne/(201355 214518)/59B2-QSPW.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309712 loop_end=400382 sample=../Audio/SlowOne/(201355 214518)/60C3-4H6G.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239913 loop_end=330609 sample=../Audio/SlowOne/(201355 214518)/61C#3-TYX7.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277755 loop_end=369073 sample=../Audio/SlowOne/(201355 214518)/62D3-MH9W.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303226 loop_end=394567 sample=../Audio/SlowOne/(201355 214518)/63D#3-KM64.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291498 loop_end=382805 sample=../Audio/SlowOne/(201355 214518)/64E3-EIYT.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287130 loop_end=377612 sample=../Audio/SlowOne/(201355 214518)/65F3-VYY0.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242123 loop_end=333285 sample=../Audio/SlowOne/(201355 214518)/66F#3-JJRL.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255172 loop_end=345731 sample=../Audio/SlowOne/(201355 214518)/67G3-D219.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=304682 loop_end=395702 sample=../Audio/SlowOne/(201355 214518)/68G#3-2UTQ.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273478 loop_end=364007 sample=../Audio/SlowOne/(201355 214518)/69A3-RKXM.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277065 loop_end=367824 sample=../Audio/SlowOne/(201355 214518)/70A#3-1V7B.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=298969 loop_end=390180 sample=../Audio/SlowOne/(201355 214518)/71B3-G7QR.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264283 loop_end=354957 sample=../Audio/SlowOne/(201355 214518)/72C4-PWJ2.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289703 loop_end=380388 sample=../Audio/SlowOne/(201355 214518)/73C#4-DJCH.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257125 loop_end=348459 sample=../Audio/SlowOne/(201355 214518)/74D4-UGXS.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239829 loop_end=331007 sample=../Audio/SlowOne/(201355 214518)/75D#4-NQBI.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273148 loop_end=313210 sample=../Audio/SlowOne/(201355 214518)/76E4-LUTU.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288757 loop_end=380112 sample=../Audio/SlowOne/(201355 214518)/77F4-BB2I.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=337414 loop_end=397445 sample=../Audio/SlowOne/(201355 214518)/78F#4-DV8T.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261388 loop_end=351922 sample=../Audio/SlowOne/(201355 214518)/79G4-WGJD.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=342288 loop_end=401737 sample=../Audio/SlowOne/(201355 214518)/80G#4-5KEL.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256603 loop_end=347228 sample=../Audio/SlowOne/(201355 214518)/81A4-YZ40.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251081 loop_end=342112 sample=../Audio/SlowOne/(201355 214518)/82A#4-M08S.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236254 loop_end=327655 sample=../Audio/SlowOne/(201355 214518)/83B4-Q2PJ.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=292045 loop_end=361215 sample=../Audio/SlowOne/(201355 214518)/84C5-W8FZ.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328299 loop_end=397968 sample=../Audio/SlowOne/(201355 214518)/85C#5-OJ34.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=296904 loop_end=366005 sample=../Audio/SlowOne/(201355 214518)/86D5-IBFO.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324333 loop_end=393999 sample=../Audio/SlowOne/(201355 214518)/87D#5-W4GK.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324668 loop_end=364334 sample=../Audio/SlowOne/(201355 214518)/88E5-LEVV.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263057 loop_end=373173 sample=../Audio/SlowOne/(201355 214518)/89F5-ZIRJ.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266071 loop_end=375508 sample=../Audio/SlowOne/(201355 214518)/90F#5-M3UR.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252545 loop_end=401793 sample=../Audio/SlowOne/(201355 214518)/91G5-O7J5.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269855 loop_end=329609 sample=../Audio/SlowOne/(201355 214518)/92G#5-BRF0.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229061 loop_end=398281 sample=../Audio/SlowOne/(201355 214518)/93A5-477M.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271993 loop_end=391647 sample=../Audio/SlowOne/(201355 214518)/94A#5-A0WS.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278167 loop_end=318127 sample=../Audio/SlowOne/(201355 214518)/95B5-29HM.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284273 loop_end=364114 sample=../Audio/SlowOne/(201355 214518)/96C6-V2KH.aif
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=236904 loop_end=328949 sample=../Audio/SlowOne/(201355 214518)/36C1-7YKK.aif
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=307822 loop_end=399815 sample=../Audio/SlowOne/(201355 214518)/37C#1-QIWT.aif
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=227670 loop_end=316884 sample=../Audio/SlowOne/(201355 214518)/38D1-NS9G.aif
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=238929 loop_end=329984 sample=../Audio/SlowOne/(201355 214518)/39D#1-LFKK.aif
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=234726 loop_end=326043 sample=../Audio/SlowOne/(201355 214518)/40E1-PNCG.aif
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=291967 loop_end=383217 sample=../Audio/SlowOne/(201355 214518)/41F1-VTTR.aif
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=278550 loop_end=369469 sample=../Audio/SlowOne/(201355 214518)/42F#1-OKTT.aif
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=248282 loop_end=338621 sample=../Audio/SlowOne/(201355 214518)/43G1-FHP2.aif
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=300258 loop_end=391496 sample=../Audio/SlowOne/(201355 214518)/44G#1-KS8Y.aif
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=283308 loop_end=374247 sample=../Audio/SlowOne/(201355 214518)/45A1-TWS3.aif
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=254144 loop_end=345304 sample=../Audio/SlowOne/(201355 214518)/46A#1-L66M.aif
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=241892 loop_end=332954 sample=../Audio/SlowOne/(201355 214518)/47B1-MWG7.aif
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=267619 loop_end=358304 sample=../Audio/SlowOne/(201355 214518)/48C2-CTP9.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=285219 loop_end=375919 sample=../Audio/SlowOne/(201355 214518)/49C#2-HVWD.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=282693 loop_end=373723 sample=../Audio/SlowOne/(201355 214518)/50D2-0LIU.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=238505 loop_end=329550 sample=../Audio/SlowOne/(201355 214518)/51D#2-CEEH.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=268335 loop_end=359106 sample=../Audio/SlowOne/(201355 214518)/52E2-45GX.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=299491 loop_end=390751 sample=../Audio/SlowOne/(201355 214518)/53F2-CBYU.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=276387 loop_end=367792 sample=../Audio/SlowOne/(201355 214518)/54F#2-Y8HI.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=228529 loop_end=319773 sample=../Audio/SlowOne/(201355 214518)/55G2-U6A5.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=266745 loop_end=357551 sample=../Audio/SlowOne/(201355 214518)/56G#2-DQ6D.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=297032 loop_end=387969 sample=../Audio/SlowOne/(201355 214518)/57A2-4949.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=248119 loop_end=338885 sample=../Audio/SlowOne/(201355 214518)/58A#2-WY3A.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=292419 loop_end=383476 sample=../Audio/SlowOne/(201355 214518)/59B2-QSPW.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=309712 loop_end=400382 sample=../Audio/SlowOne/(201355 214518)/60C3-4H6G.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=239913 loop_end=330609 sample=../Audio/SlowOne/(201355 214518)/61C#3-TYX7.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=277755 loop_end=369073 sample=../Audio/SlowOne/(201355 214518)/62D3-MH9W.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=303226 loop_end=394567 sample=../Audio/SlowOne/(201355 214518)/63D#3-KM64.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=291498 loop_end=382805 sample=../Audio/SlowOne/(201355 214518)/64E3-EIYT.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=287130 loop_end=377612 sample=../Audio/SlowOne/(201355 214518)/65F3-VYY0.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=242123 loop_end=333285 sample=../Audio/SlowOne/(201355 214518)/66F#3-JJRL.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=255172 loop_end=345731 sample=../Audio/SlowOne/(201355 214518)/67G3-D219.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=304682 loop_end=395702 sample=../Audio/SlowOne/(201355 214518)/68G#3-2UTQ.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=273478 loop_end=364007 sample=../Audio/SlowOne/(201355 214518)/69A3-RKXM.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=277065 loop_end=367824 sample=../Audio/SlowOne/(201355 214518)/70A#3-1V7B.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=298969 loop_end=390180 sample=../Audio/SlowOne/(201355 214518)/71B3-G7QR.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=264283 loop_end=354957 sample=../Audio/SlowOne/(201355 214518)/72C4-PWJ2.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=289703 loop_end=380388 sample=../Audio/SlowOne/(201355 214518)/73C#4-DJCH.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=257125 loop_end=348459 sample=../Audio/SlowOne/(201355 214518)/74D4-UGXS.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=239829 loop_end=331007 sample=../Audio/SlowOne/(201355 214518)/75D#4-NQBI.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=273148 loop_end=313210 sample=../Audio/SlowOne/(201355 214518)/76E4-LUTU.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=288757 loop_end=380112 sample=../Audio/SlowOne/(201355 214518)/77F4-BB2I.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=337414 loop_end=397445 sample=../Audio/SlowOne/(201355 214518)/78F#4-DV8T.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=261388 loop_end=351922 sample=../Audio/SlowOne/(201355 214518)/79G4-WGJD.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=342288 loop_end=401737 sample=../Audio/SlowOne/(201355 214518)/80G#4-5KEL.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=256603 loop_end=347228 sample=../Audio/SlowOne/(201355 214518)/81A4-YZ40.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=251081 loop_end=342112 sample=../Audio/SlowOne/(201355 214518)/82A#4-M08S.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=236254 loop_end=327655 sample=../Audio/SlowOne/(201355 214518)/83B4-Q2PJ.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=292045 loop_end=361215 sample=../Audio/SlowOne/(201355 214518)/84C5-W8FZ.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=328299 loop_end=397968 sample=../Audio/SlowOne/(201355 214518)/85C#5-OJ34.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=296904 loop_end=366005 sample=../Audio/SlowOne/(201355 214518)/86D5-IBFO.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=324333 loop_end=393999 sample=../Audio/SlowOne/(201355 214518)/87D#5-W4GK.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=324668 loop_end=364334 sample=../Audio/SlowOne/(201355 214518)/88E5-LEVV.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=263057 loop_end=373173 sample=../Audio/SlowOne/(201355 214518)/89F5-ZIRJ.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=266071 loop_end=375508 sample=../Audio/SlowOne/(201355 214518)/90F#5-M3UR.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=252545 loop_end=401793 sample=../Audio/SlowOne/(201355 214518)/91G5-O7J5.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=269855 loop_end=329609 sample=../Audio/SlowOne/(201355 214518)/92G#5-BRF0.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=229061 loop_end=398281 sample=../Audio/SlowOne/(201355 214518)/93A5-477M.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=271993 loop_end=391647 sample=../Audio/SlowOne/(201355 214518)/94A#5-A0WS.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=278167 loop_end=318127 sample=../Audio/SlowOne/(201355 214518)/95B5-29HM.aif
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=284273 loop_end=364114 sample=../Audio/SlowOne/(201355 214518)/96C6-V2KH.aif
