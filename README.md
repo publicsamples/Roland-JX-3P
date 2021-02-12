@@ -2,6 +2,7 @@
 
 **Formats:** EXS24, NN-XT Kontakt & SFZ
 -    **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Roland_JX-3P)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/jx3p.html)
 
 -**This collection requires you to download the audio seperately**
 
