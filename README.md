@@ -4,9 +4,7 @@
 -    **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Roland_JX-3P)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/jx3p.html)
 
--**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/m9vbpgr5i1lb1mc/AACKJ5786PVVJ0DdnQwbJQO7a?dl=0)
+**[Download Audio](https://github.com/publicsamples/Roland-JX-3P/releases/tag/v1.0)**
 
 # Loading
 
