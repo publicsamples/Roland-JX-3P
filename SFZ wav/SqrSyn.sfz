@@ -1,0 +1,124 @@
+// this file was generated from SqrSyn.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=888 end=109767 sample=../Audio/SqrSyn/36C1-7F9E.wav
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=913 end=103759 sample=../Audio/SqrSyn/37C#1-8GID.wav
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=845 end=104465 sample=../Audio/SqrSyn/38D1-6FO6.wav
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=859 end=105596 sample=../Audio/SqrSyn/39D#1-DSFF.wav
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=673 sample=../Audio/SqrSyn/40E1-XCZI.wav
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=786 end=106418 sample=../Audio/SqrSyn/41F1-MNMO.wav
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=671 end=113209 sample=../Audio/SqrSyn/42F#1-E47Q.wav
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=747 end=105988 sample=../Audio/SqrSyn/43G1-00Q1.wav
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=567 end=108569 sample=../Audio/SqrSyn/44G#1-39EP.wav
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=625 end=109211 sample=../Audio/SqrSyn/45A1-69H1.wav
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=684 end=107554 sample=../Audio/SqrSyn/46A#1-2D4I.wav
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=942 end=109986 sample=../Audio/SqrSyn/47B1-1N0D.wav
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=554 end=120305 sample=../Audio/SqrSyn/48C2-NRBD.wav
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=710 end=109443 sample=../Audio/SqrSyn/49C#2-A30K.wav
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1040 end=111369 sample=../Audio/SqrSyn/50D2-Z4TH.wav
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=762 end=112281 sample=../Audio/SqrSyn/51D#2-CLCJ.wav
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=744 sample=../Audio/SqrSyn/52E2-KF0M.wav
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=926 end=112519 sample=../Audio/SqrSyn/53F2-RZ9K.wav
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=813 sample=../Audio/SqrSyn/54F#2-UEKO.wav
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1023 end=111377 sample=../Audio/SqrSyn/55G2-HQ5P.wav
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=780 end=111796 sample=../Audio/SqrSyn/56G#2-HC44.wav
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=672 end=111252 sample=../Audio/SqrSyn/57A2-G7DG.wav
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=743 end=111104 sample=../Audio/SqrSyn/58A#2-SFLK.wav
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=620 sample=../Audio/SqrSyn/59B2-HU5Z.wav
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=845 end=118804 sample=../Audio/SqrSyn/60C3-VMBA.wav
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=971 end=112268 sample=../Audio/SqrSyn/61C#3-Q16T.wav
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1031 sample=../Audio/SqrSyn/62D3-QINN.wav
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=812 end=111269 sample=../Audio/SqrSyn/63D#3-FIU8.wav
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=864 end=110976 sample=../Audio/SqrSyn/64E3-Z07Q.wav
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=948 end=111646 sample=../Audio/SqrSyn/65F3-S481.wav
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=831 end=117518 sample=../Audio/SqrSyn/66F#3-OA45.wav
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=921 end=112929 sample=../Audio/SqrSyn/67G3-R4W0.wav
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=767 sample=../Audio/SqrSyn/68G#3-TYY4.wav
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=590 end=112643 sample=../Audio/SqrSyn/69A3-0WQL.wav
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=650 sample=../Audio/SqrSyn/70A#3-AE6Q.wav
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=650 end=110982 sample=../Audio/SqrSyn/71B3-7HUR.wav
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=657 end=119955 sample=../Audio/SqrSyn/72C4-P92L.wav
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=907 end=112543 sample=../Audio/SqrSyn/73C#4-S16X.wav
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=882 sample=../Audio/SqrSyn/74D4-IMTR.wav
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=756 end=113032 sample=../Audio/SqrSyn/75D#4-GM6D.wav
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=555 end=112001 sample=../Audio/SqrSyn/76E4-3PTB.wav
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=929 end=110355 sample=../Audio/SqrSyn/77F4-ZUA0.wav
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=877 end=116746 sample=../Audio/SqrSyn/78F#4-NLY5.wav
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=800 end=112006 sample=../Audio/SqrSyn/79G4-8Z2V.wav
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=743 end=109896 sample=../Audio/SqrSyn/80G#4-KJYM.wav
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=783 end=109486 sample=../Audio/SqrSyn/81A4-L9LP.wav
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=511 end=108845 sample=../Audio/SqrSyn/82A#4-TIHY.wav
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=576 end=110984 sample=../Audio/SqrSyn/83B4-UET6.wav
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=947 end=113293 sample=../Audio/SqrSyn/84C5-ZW7E.wav
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1098 end=109961 sample=../Audio/SqrSyn/85C#5-IAHV.wav
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=971 end=108179 sample=../Audio/SqrSyn/86D5-TWPT.wav
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=573 end=111002 sample=../Audio/SqrSyn/87D#5-0YFN.wav
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=884 sample=../Audio/SqrSyn/88E5-Y0VV.wav
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=776 end=111627 sample=../Audio/SqrSyn/89F5-OSVR.wav
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=670 sample=../Audio/SqrSyn/90F#5-74Y8.wav
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=816 end=109962 sample=../Audio/SqrSyn/91G5-3Q40.wav
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=774 end=110608 sample=../Audio/SqrSyn/92G#5-DKBQ.wav
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=723 end=111367 sample=../Audio/SqrSyn/93A5-4Y91.wav
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=703 end=109953 sample=../Audio/SqrSyn/94A#5-CV2H.wav
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=661 end=111376 sample=../Audio/SqrSyn/95B5-9NJQ.wav
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=663 end=117910 sample=../Audio/SqrSyn/96C6-9PQL.wav

@@ -1,0 +1,124 @@
+// this file was generated from InSpace.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=587 end=96143 sample=../Audio/InSpace/36C1-0YQZ.wav
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=937 end=99207 sample=../Audio/InSpace/37C#1-YDI1.wav
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=872 sample=../Audio/InSpace/38D1-F2HE.wav
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=846 end=98289 sample=../Audio/InSpace/39D#1-XXMC.wav
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=629 end=97100 sample=../Audio/InSpace/40E1-DKJZ.wav
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=932 sample=../Audio/InSpace/41F1-TNJN.wav
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=713 end=96488 sample=../Audio/InSpace/42F#1-ZOOD.wav
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=586 end=100283 sample=../Audio/InSpace/43G1-OA6N.wav
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=871 end=97603 sample=../Audio/InSpace/44G#1-AR98.wav
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=782 sample=../Audio/InSpace/45A1-QWMG.wav
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=700 end=97594 sample=../Audio/InSpace/46A#1-CMFS.wav
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=980 end=99843 sample=../Audio/InSpace/47B1-215U.wav
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=916 end=100588 sample=../Audio/InSpace/48C2-WBNX.wav
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=826 end=103287 sample=../Audio/InSpace/49C#2-N7XZ.wav
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=516 end=99670 sample=../Audio/InSpace/50D2-PJ7K.wav
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=699 end=100522 sample=../Audio/InSpace/51D#2-TUU3.wav
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1022 end=101817 sample=../Audio/InSpace/52E2-XMKG.wav
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=639 end=101692 sample=../Audio/InSpace/53F2-IWRR.wav
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=889 end=100647 sample=../Audio/InSpace/54F#2-E59K.wav
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=714 sample=../Audio/InSpace/55G2-MR23.wav
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=557 end=103103 sample=../Audio/InSpace/56G#2-GDU9.wav
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=883 end=101396 sample=../Audio/InSpace/57A2-RH0Z.wav
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=915 end=102224 sample=../Audio/InSpace/58A#2-3AUA.wav
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=695 end=101519 sample=../Audio/InSpace/59B2-HR72.wav
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=602 end=104376 sample=../Audio/InSpace/60C3-4VPS.wav
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=468 end=107439 sample=../Audio/InSpace/61C#3-55XD.wav
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=645 end=107961 sample=../Audio/InSpace/62D3-8VMG.wav
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=540 end=103357 sample=../Audio/InSpace/63D#3-U8JJ.wav
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=662 sample=../Audio/InSpace/64E3-4XFY.wav
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=994 end=104739 sample=../Audio/InSpace/65F3-O48A.wav
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=576 end=105374 sample=../Audio/InSpace/66F#3-232R.wav
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=674 end=110487 sample=../Audio/InSpace/67G3-949Y.wav
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=960 end=105386 sample=../Audio/InSpace/68G#3-6K4L.wav
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=584 end=105900 sample=../Audio/InSpace/69A3-CLX0.wav
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=847 sample=../Audio/InSpace/70A#3-TB4I.wav
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=766 end=106729 sample=../Audio/InSpace/71B3-KANW.wav
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=605 end=107147 sample=../Audio/InSpace/72C4-OUCX.wav
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1015 end=112794 sample=../Audio/InSpace/73C#4-X8PH.wav
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=865 end=106122 sample=../Audio/InSpace/74D4-FFQN.wav
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=918 end=107163 sample=../Audio/InSpace/75D#4-WX5U.wav
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=925 sample=../Audio/InSpace/76E4-AFHP.wav
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=634 end=108271 sample=../Audio/InSpace/77F4-VCNG.wav
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=520 end=107181 sample=../Audio/InSpace/78F#4-FZW8.wav
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=948 sample=../Audio/InSpace/79G4-T8YU.wav
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=802 end=107733 sample=../Audio/InSpace/80G#4-BIAH.wav
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=759 end=107415 sample=../Audio/InSpace/81A4-482O.wav
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=834 sample=../Audio/InSpace/82A#4-ZLMB.wav
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=729 end=108007 sample=../Audio/InSpace/83B4-WB0T.wav
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=561 end=108684 sample=../Audio/InSpace/84C5-1W63.wav
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=784 sample=../Audio/InSpace/85C#5-ENPS.wav
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=576 sample=../Audio/InSpace/86D5-7NZW.wav
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=977 end=108936 sample=../Audio/InSpace/87D#5-BBAV.wav
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=672 end=108715 sample=../Audio/InSpace/88E5-QDB4.wav
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=673 end=108559 sample=../Audio/InSpace/89F5-LTN7.wav
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=729 sample=../Audio/InSpace/90F#5-UP3C.wav
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=770 end=113032 sample=../Audio/InSpace/91G5-3IPA.wav
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=722 sample=../Audio/InSpace/92G#5-Q2M5.wav
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=633 sample=../Audio/InSpace/93A5-HXZL.wav
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=598 sample=../Audio/InSpace/94A#5-XZO0.wav
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=723 end=107907 sample=../Audio/InSpace/95B5-RPP9.wav
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=946 end=108930 sample=../Audio/InSpace/96C6-243D.wav

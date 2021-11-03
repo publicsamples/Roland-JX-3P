@@ -1,0 +1,124 @@
+// this file was generated from FunkyWhiner.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=110850 loop_end=228596 sample=../Audio/FunkyWhiner/(201355 212715)/36C1-HFEM.wav
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=155802 loop_end=284819 sample=../Audio/FunkyWhiner/(201355 212715)/37C#1-D4QN.wav
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=158039 loop_end=361807 sample=../Audio/FunkyWhiner/(201355 212715)/38D1-F786.wav
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=106994 loop_end=281116 sample=../Audio/FunkyWhiner/(201355 212715)/39D#1-2FFL.wav
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=140129 loop_end=249692 sample=../Audio/FunkyWhiner/(201355 212715)/40E1-Q5ZU.wav
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=251731 loop_end=355151 sample=../Audio/FunkyWhiner/(201355 212715)/41F1-8S2I.wav
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=78851 loop_end=371711 sample=../Audio/FunkyWhiner/(201355 212715)/42F#1-KFJ8.wav
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=103298 loop_end=195446 sample=../Audio/FunkyWhiner/(201355 212715)/43G1-4GPD.wav
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=124824 loop_end=297905 sample=../Audio/FunkyWhiner/(201355 212715)/44G#1-L7LJ.wav
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=142732 loop_end=356793 sample=../Audio/FunkyWhiner/(201355 212715)/45A1-BJME.wav
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=132458 loop_end=317801 sample=../Audio/FunkyWhiner/(201355 212715)/46A#1-HO15.wav
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=127808 loop_end=249686 sample=../Audio/FunkyWhiner/(201355 212715)/47B1-1SH9.wav
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=146884 loop_end=274784 sample=../Audio/FunkyWhiner/(201355 212715)/48C2-VG4J.wav
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=206914 loop_end=369780 sample=../Audio/FunkyWhiner/(201355 212715)/49C#2-4O0Q.wav
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=174197 loop_end=354453 sample=../Audio/FunkyWhiner/(201355 212715)/50D2-DAX8.wav
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=81958 loop_end=297047 sample=../Audio/FunkyWhiner/(201355 212715)/51D#2-DDK6.wav
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=142800 loop_end=340447 sample=../Audio/FunkyWhiner/(201355 212715)/52E2-IHYK.wav
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=169239 loop_end=366938 sample=../Audio/FunkyWhiner/(201355 212715)/53F2-GWT3.wav
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=121638 loop_end=267095 sample=../Audio/FunkyWhiner/(201355 212715)/54F#2-0NZE.wav
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=128750 loop_end=373537 sample=../Audio/FunkyWhiner/(201355 212715)/55G2-Q0XQ.wav
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=204160 loop_end=361873 sample=../Audio/FunkyWhiner/(201355 212715)/56G#2-S9X7.wav
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=120731 loop_end=325531 sample=../Audio/FunkyWhiner/(201355 212715)/57A2-8O72.wav
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=94128 loop_end=158685 sample=../Audio/FunkyWhiner/(201355 212715)/58A#2-A70D.wav
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=154410 loop_end=289185 sample=../Audio/FunkyWhiner/(201355 212715)/59B2-J6RG.wav
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=241160 loop_end=358900 sample=../Audio/FunkyWhiner/(201355 212715)/60C3-CFB5.wav
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=271395 loop_end=365597 sample=../Audio/FunkyWhiner/(201355 212715)/61C#3-WOAS.wav
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=130756 loop_end=201588 sample=../Audio/FunkyWhiner/(201355 212715)/62D3-H0FA.wav
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=301804 loop_end=372361 sample=../Audio/FunkyWhiner/(201355 212715)/63D#3-KJ9R.wav
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=102202 loop_end=172827 sample=../Audio/FunkyWhiner/(201355 212715)/64E3-WZFT.wav
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=246129 loop_end=316588 sample=../Audio/FunkyWhiner/(201355 212715)/65F3-UYC3.wav
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=95125 loop_end=259964 sample=../Audio/FunkyWhiner/(201355 212715)/66F#3-7H30.wav
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=171483 loop_end=318944 sample=../Audio/FunkyWhiner/(201355 212715)/67G3-V1V7.wav
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=145247 loop_end=352213 sample=../Audio/FunkyWhiner/(201355 212715)/68G#3-4FHP.wav
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=184045 loop_end=320237 sample=../Audio/FunkyWhiner/(201355 212715)/69A3-JHHY.wav
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=150696 loop_end=352539 sample=../Audio/FunkyWhiner/(201355 212715)/70A#3-BWYE.wav
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=178052 loop_end=362458 sample=../Audio/FunkyWhiner/(201355 212715)/71B3-M26M.wav
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=142839 loop_end=369161 sample=../Audio/FunkyWhiner/(201355 212715)/72C4-M8MG.wav
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=125795 loop_end=352187 sample=../Audio/FunkyWhiner/(201355 212715)/73C#4-Z1TB.wav
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=123147 loop_end=349487 sample=../Audio/FunkyWhiner/(201355 212715)/74D4-WFUJ.wav
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=144234 loop_end=304798 sample=../Audio/FunkyWhiner/(201355 212715)/75D#4-EGXS.wav
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=118254 loop_end=183634 sample=../Audio/FunkyWhiner/(201355 212715)/76E4-5C5G.wav
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=57606 loop_end=283925 sample=../Audio/FunkyWhiner/(201355 212715)/77F4-EN07.wav
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=304528 loop_end=370175 sample=../Audio/FunkyWhiner/(201355 212715)/78F#4-41KJ.wav
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=88595 loop_end=369125 sample=../Audio/FunkyWhiner/(201355 212715)/79G4-IB3A.wav
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=163724 loop_end=277396 sample=../Audio/FunkyWhiner/(201355 212715)/80G#4-JBVW.wav
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=167357 loop_end=371226 sample=../Audio/FunkyWhiner/(201355 212715)/81A4-KQ0G.wav
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=85681 loop_end=307886 sample=../Audio/FunkyWhiner/(201355 212715)/82A#4-3D1S.wav
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=223113 loop_end=319327 sample=../Audio/FunkyWhiner/(201355 212715)/83B4-X74B.wav
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=152536 loop_end=309224 sample=../Audio/FunkyWhiner/(201355 212715)/84C5-WMPM.wav
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=59634 loop_end=373021 sample=../Audio/FunkyWhiner/(201355 212715)/85C#5-C2VQ.wav
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=208788 loop_end=365453 sample=../Audio/FunkyWhiner/(201355 212715)/86D5-NYCH.wav
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=163753 loop_end=320361 sample=../Audio/FunkyWhiner/(201355 212715)/87D#5-0RMN.wav
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=209833 loop_end=366489 sample=../Audio/FunkyWhiner/(201355 212715)/88E5-SHEH.wav
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=143557 loop_end=300249 sample=../Audio/FunkyWhiner/(201355 212715)/89F5-FUIB.wav
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=148428 loop_end=256912 sample=../Audio/FunkyWhiner/(201355 212715)/90F#5-KMHE.wav
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=180593 loop_end=301465 sample=../Audio/FunkyWhiner/(201355 212715)/91G5-9HCH.wav
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=177028 loop_end=243653 sample=../Audio/FunkyWhiner/(201355 212715)/92G#5-4LST.wav
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=183871 loop_end=262785 sample=../Audio/FunkyWhiner/(201355 212715)/93A5-YMWU.wav
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=209977 loop_end=301119 sample=../Audio/FunkyWhiner/(201355 212715)/94A#5-CWMD.wav
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=209785 loop_end=319394 sample=../Audio/FunkyWhiner/(201355 212715)/95B5-28BE.wav
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=83894 loop_end=346063 sample=../Audio/FunkyWhiner/(201355 212715)/96C6-5N0Z.wav

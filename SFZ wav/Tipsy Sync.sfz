@@ -1,0 +1,124 @@
+// this file was generated from Tipsy Sync.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=301552 loop_end=393740 sample=../Audio/Tipsy Sync/(201324 233112)/0-SAZI.wav
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=306537 loop_end=399938 sample=../Audio/Tipsy Sync/(201324 233112)/0-0RFO.wav
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=237221 loop_end=330215 sample=../Audio/Tipsy Sync/(201324 233112)/0-J1CD.wav
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=273556 loop_end=365892 sample=../Audio/Tipsy Sync/(201324 233112)/0-OYJL.wav
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=220552 loop_end=391572 sample=../Audio/Tipsy Sync/(201324 233112)/0-X0B7.wav
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=305021 loop_end=398366 sample=../Audio/Tipsy Sync/(201324 233112)/0-VLK7.wav
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=236029 loop_end=328057 sample=../Audio/Tipsy Sync/(201324 233112)/0-WK4R.wav
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=246291 loop_end=337677 sample=../Audio/Tipsy Sync/(201324 233112)/0-06ZF.wav
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=291525 loop_end=383761 sample=../Audio/Tipsy Sync/(201324 233112)/0-CBC7.wav
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=277325 loop_end=369230 sample=../Audio/Tipsy Sync/(201324 233112)/0-FM0N.wav
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=308925 loop_end=400991 sample=../Audio/Tipsy Sync/(201324 233112)/0-K41F.wav
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=291552 loop_end=384194 sample=../Audio/Tipsy Sync/(201324 233112)/0-IYZM.wav
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=304227 loop_end=396417 sample=../Audio/Tipsy Sync/(201324 233112)/0-YSEB.wav
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=252458 loop_end=345235 sample=../Audio/Tipsy Sync/(201324 233112)/0-BRNR.wav
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=308063 loop_end=400464 sample=../Audio/Tipsy Sync/(201324 233112)/0-ZSHI.wav
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=253357 loop_end=345696 sample=../Audio/Tipsy Sync/(201324 233112)/0-5VRI.wav
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=238450 loop_end=330981 sample=../Audio/Tipsy Sync/(201324 233112)/0-4G8K.wav
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=272449 loop_end=364874 sample=../Audio/Tipsy Sync/(201324 233112)/0-MOBG.wav
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=288502 loop_end=381012 sample=../Audio/Tipsy Sync/(201324 233112)/0-32SD.wav
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=221984 loop_end=314725 sample=../Audio/Tipsy Sync/(201324 233112)/0-4P23.wav
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=236984 loop_end=329640 sample=../Audio/Tipsy Sync/(201324 233112)/0-RUEC.wav
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=306555 loop_end=399663 sample=../Audio/Tipsy Sync/(201324 233112)/0-4SMZ.wav
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=304720 loop_end=397924 sample=../Audio/Tipsy Sync/(201324 233112)/0-KMTD.wav
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=307308 loop_end=400306 sample=../Audio/Tipsy Sync/(201324 233112)/0-63VX.wav
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=254320 loop_end=347863 sample=../Audio/Tipsy Sync/(201324 233112)/0-4EDT.wav
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=292145 loop_end=385553 sample=../Audio/Tipsy Sync/(201324 233112)/0-S9CF.wav
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=276241 loop_end=369540 sample=../Audio/Tipsy Sync/(201324 233112)/0-J2KX.wav
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=250390 loop_end=343870 sample=../Audio/Tipsy Sync/(201324 233112)/0-15O2.wav
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=306506 loop_end=399847 sample=../Audio/Tipsy Sync/(201324 233112)/0-0RU2.wav
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=239092 loop_end=332259 sample=../Audio/Tipsy Sync/(201324 233112)/0-P2AS.wav
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=239514 loop_end=332740 sample=../Audio/Tipsy Sync/(201324 233112)/0-HHMB.wav
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=262748 loop_end=356404 sample=../Audio/Tipsy Sync/(201324 233112)/0-V8GS.wav
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=223559 loop_end=317078 sample=../Audio/Tipsy Sync/(201324 233112)/0-W15S.wav
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=302165 loop_end=395673 sample=../Audio/Tipsy Sync/(201324 233112)/0-1OYY.wav
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=239783 loop_end=333939 sample=../Audio/Tipsy Sync/(201324 233112)/0-7KN2.wav
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=250045 loop_end=344115 sample=../Audio/Tipsy Sync/(201324 233112)/0-O7S3.wav
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=259045 loop_end=353081 sample=../Audio/Tipsy Sync/(201324 233112)/0-2CC2.wav
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=267357 loop_end=360419 sample=../Audio/Tipsy Sync/(201324 233112)/0-EMFR.wav
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=274622 loop_end=368811 sample=../Audio/Tipsy Sync/(201324 233112)/0-E8SO.wav
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=353596 loop_end=397332 sample=../Audio/Tipsy Sync/(201324 233112)/0-QP81.wav
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=301687 loop_end=339203 sample=../Audio/Tipsy Sync/(201324 233112)/0-0R5T.wav
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=222104 loop_end=315264 sample=../Audio/Tipsy Sync/(201324 233112)/0-221E.wav
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=291315 loop_end=328929 sample=../Audio/Tipsy Sync/(201324 233112)/0-O7GO.wav
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=241884 loop_end=393419 sample=../Audio/Tipsy Sync/(201324 233112)/0-LGYO.wav
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=291106 loop_end=353656 sample=../Audio/Tipsy Sync/(201324 233112)/0-IMWJ.wav
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=280245 loop_end=400743 sample=../Audio/Tipsy Sync/(201324 233112)/0-B2XP.wav
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=260122 loop_end=323823 sample=../Audio/Tipsy Sync/(201324 233112)/0-889X.wav
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=239384 loop_end=360182 sample=../Audio/Tipsy Sync/(201324 233112)/0-OVYA.wav
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=225156 loop_end=294958 sample=../Audio/Tipsy Sync/(201324 233112)/0-QHRI.wav
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=296702 loop_end=358879 sample=../Audio/Tipsy Sync/(201324 233112)/0-DTUS.wav
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=276347 loop_end=346390 sample=../Audio/Tipsy Sync/(201324 233112)/0-TUOT.wav
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=268787 loop_end=383433 sample=../Audio/Tipsy Sync/(201324 233112)/0-X89L.wav
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=277688 loop_end=392060 sample=../Audio/Tipsy Sync/(201324 233112)/0-3LTF.wav
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=243775 loop_end=396778 sample=../Audio/Tipsy Sync/(201324 233112)/0-6AYB.wav
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=262828 loop_end=339160 sample=../Audio/Tipsy Sync/(201324 233112)/0-WBK1.wav
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=256287 loop_end=364876 sample=../Audio/Tipsy Sync/(201324 233112)/0-7F0C.wav
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=320791 loop_end=397510 sample=../Audio/Tipsy Sync/(201324 233112)/0-MBRR.wav
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=241172 loop_end=318221 sample=../Audio/Tipsy Sync/(201324 233112)/0-3QN6.wav
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=221469 loop_end=341417 sample=../Audio/Tipsy Sync/(201324 233112)/0-ONZZ.wav
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=259068 loop_end=323664 sample=../Audio/Tipsy Sync/(201324 233112)/0-DJ22.wav
+<group>lokey=96 hikey=121 pitch_keycenter=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=219691 loop_end=393613 sample=../Audio/Tipsy Sync/(201324 233112)/0-7M4T.wav

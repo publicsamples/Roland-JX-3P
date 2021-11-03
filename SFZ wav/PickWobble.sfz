@@ -1,0 +1,124 @@
+// this file was generated from PickWobble.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=990 end=376212 sample=../Audio/PickWobble/36C1-RYG9.wav
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=979 sample=../Audio/PickWobble/37C#1-WH0S.wav
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=921 sample=../Audio/PickWobble/38D1-PIJ5.wav
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=832 end=377382 sample=../Audio/PickWobble/39D#1-X2Y5.wav
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=857 end=374703 sample=../Audio/PickWobble/40E1-7DLM.wav
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=661 end=374861 sample=../Audio/PickWobble/41F1-M8XR.wav
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=940 end=374701 sample=../Audio/PickWobble/42F#1-5YVR.wav
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=935 end=374316 sample=../Audio/PickWobble/43G1-L8PL.wav
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1017 end=372608 sample=../Audio/PickWobble/44G#1-HZR1.wav
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=732 end=377022 sample=../Audio/PickWobble/45A1-L8IJ.wav
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=948 sample=../Audio/PickWobble/46A#1-AS3K.wav
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=886 end=373109 sample=../Audio/PickWobble/47B1-X3NS.wav
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=879 end=373185 sample=../Audio/PickWobble/48C2-XQXK.wav
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=755 end=376832 sample=../Audio/PickWobble/49C#2-HQOP.wav
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=800 end=372437 sample=../Audio/PickWobble/50D2-WEO5.wav
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1032 end=377216 sample=../Audio/PickWobble/51D#2-4AMJ.wav
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=843 sample=../Audio/PickWobble/52E2-S2VM.wav
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=864 end=375241 sample=../Audio/PickWobble/53F2-HS2O.wav
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=785 end=373928 sample=../Audio/PickWobble/54F#2-G9CO.wav
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=818 sample=../Audio/PickWobble/55G2-SJ5R.wav
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1065 end=372871 sample=../Audio/PickWobble/56G#2-69ME.wav
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1011 end=377889 sample=../Audio/PickWobble/57A2-GK0N.wav
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=752 sample=../Audio/PickWobble/58A#2-UDFI.wav
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1019 end=372766 sample=../Audio/PickWobble/59B2-X77T.wav
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=931 end=375113 sample=../Audio/PickWobble/60C3-EZ3J.wav
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=742 sample=../Audio/PickWobble/61C#3-8R6B.wav
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1052 end=372992 sample=../Audio/PickWobble/62D3-O1QX.wav
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=503 end=379180 sample=../Audio/PickWobble/63D#3-0P9F.wav
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=812 end=377610 sample=../Audio/PickWobble/64E3-3CQR.wav
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=684 end=375040 sample=../Audio/PickWobble/65F3-1T6F.wav
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=588 sample=../Audio/PickWobble/66F#3-TFI0.wav
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=896 sample=../Audio/PickWobble/67G3-40WA.wav
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=776 end=373120 sample=../Audio/PickWobble/68G#3-C8QK.wav
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=590 end=376489 sample=../Audio/PickWobble/69A3-6JZA.wav
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=753 end=372992 sample=../Audio/PickWobble/70A#3-TTB7.wav
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=984 sample=../Audio/PickWobble/71B3-EFGZ.wav
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=581 end=377623 sample=../Audio/PickWobble/72C4-2RPB.wav
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1055 end=376467 sample=../Audio/PickWobble/73C#4-SW16.wav
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=701 end=373402 sample=../Audio/PickWobble/74D4-JQEM.wav
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=844 end=380928 sample=../Audio/PickWobble/75D#4-0CW6.wav
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1011 sample=../Audio/PickWobble/76E4-7QFC.wav
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=752 end=376345 sample=../Audio/PickWobble/77F4-WEZL.wav
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=965 end=377867 sample=../Audio/PickWobble/78F#4-7SAN.wav
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=845 end=378752 sample=../Audio/PickWobble/79G4-A9VN.wav
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=914 sample=../Audio/PickWobble/80G#4-I6RO.wav
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=899 sample=../Audio/PickWobble/81A4-WER4.wav
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=894 sample=../Audio/PickWobble/82A#4-2ZGS.wav
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=633 end=377109 sample=../Audio/PickWobble/83B4-P8VJ.wav
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1021 sample=../Audio/PickWobble/84C5-HUV3.wav
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=756 sample=../Audio/PickWobble/85C#5-KO18.wav
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=684 sample=../Audio/PickWobble/86D5-NF4C.wav
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=992 sample=../Audio/PickWobble/87D#5-7KAU.wav
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=892 end=379392 sample=../Audio/PickWobble/88E5-72YW.wav
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=964 sample=../Audio/PickWobble/89F5-B61D.wav
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=707 sample=../Audio/PickWobble/90F#5-TXE0.wav
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=724 end=382999 sample=../Audio/PickWobble/91G5-J36J.wav
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=742 sample=../Audio/PickWobble/92G#5-HGLZ.wav
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1013 sample=../Audio/PickWobble/93A5-3X5T.wav
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=606 end=383618 sample=../Audio/PickWobble/94A#5-D2TV.wav
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=1089 end=381599 sample=../Audio/PickWobble/95B5-35PT.wav
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=849 sample=../Audio/PickWobble/96C6-PG8K.wav

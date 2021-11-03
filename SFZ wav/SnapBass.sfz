@@ -1,0 +1,124 @@
+// this file was generated from SnapBass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=715 end=135921 sample=../Audio/SnapBass/36C1-8H0E.wav
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=685 end=121391 sample=../Audio/SnapBass/37C#1-XVWU.wav
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=900 end=116654 sample=../Audio/SnapBass/38D1-47AG.wav
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=555 sample=../Audio/SnapBass/39D#1-BBET.wav
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=655 end=119336 sample=../Audio/SnapBass/40E1-3D6A.wav
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=604 end=143670 sample=../Audio/SnapBass/41F1-203W.wav
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1120 end=138199 sample=../Audio/SnapBass/42F#1-NML5.wav
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=852 end=117684 sample=../Audio/SnapBass/43G1-7OVP.wav
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=603 end=118446 sample=../Audio/SnapBass/44G#1-6DZI.wav
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=955 end=121152 sample=../Audio/SnapBass/45A1-QLEU.wav
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=925 end=121280 sample=../Audio/SnapBass/46A#1-9651.wav
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=712 end=144127 sample=../Audio/SnapBass/47B1-4TSF.wav
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=705 end=138511 sample=../Audio/SnapBass/48C2-60YN.wav
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=960 sample=../Audio/SnapBass/49C#2-J4NY.wav
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=721 end=119508 sample=../Audio/SnapBass/50D2-F5BI.wav
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=584 end=120676 sample=../Audio/SnapBass/51D#2-ULNI.wav
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=850 end=118613 sample=../Audio/SnapBass/52E2-Q31R.wav
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=674 end=142895 sample=../Audio/SnapBass/53F2-EHKL.wav
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=640 end=139195 sample=../Audio/SnapBass/54F#2-4W9W.wav
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=943 end=120094 sample=../Audio/SnapBass/55G2-39X1.wav
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=656 sample=../Audio/SnapBass/56G#2-DMA9.wav
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=631 end=125507 sample=../Audio/SnapBass/57A2-P8EO.wav
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=776 sample=../Audio/SnapBass/58A#2-E79C.wav
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=726 sample=../Audio/SnapBass/59B2-GE56.wav
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=692 sample=../Audio/SnapBass/60C3-TEMN.wav
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1029 end=119833 sample=../Audio/SnapBass/61C#3-OSD6.wav
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=679 end=118626 sample=../Audio/SnapBass/62D3-GYO3.wav
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=573 end=119246 sample=../Audio/SnapBass/63D#3-FTA7.wav
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=720 sample=../Audio/SnapBass/64E3-BMW8.wav
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1010 sample=../Audio/SnapBass/65F3-HTRA.wav
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=640 end=137603 sample=../Audio/SnapBass/66F#3-ED1N.wav
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=706 sample=../Audio/SnapBass/67G3-T7KY.wav
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=643 end=119130 sample=../Audio/SnapBass/68G#3-SHRP.wav
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1068 end=121631 sample=../Audio/SnapBass/69A3-46ZF.wav
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=910 end=120700 sample=../Audio/SnapBass/70A#3-OWPK.wav
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=772 sample=../Audio/SnapBass/71B3-DWIP.wav
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1043 sample=../Audio/SnapBass/72C4-1A00.wav
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=873 sample=../Audio/SnapBass/73C#4-9VIL.wav
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1046 end=120801 sample=../Audio/SnapBass/74D4-7BBW.wav
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=674 end=124035 sample=../Audio/SnapBass/75D#4-6VFH.wav
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=672 end=119692 sample=../Audio/SnapBass/76E4-L5UG.wav
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=797 end=142313 sample=../Audio/SnapBass/77F4-T7SM.wav
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=650 sample=../Audio/SnapBass/78F#4-7018.wav
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=593 end=117706 sample=../Audio/SnapBass/79G4-NLSQ.wav
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1058 sample=../Audio/SnapBass/80G#4-T7D7.wav
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=937 end=121599 sample=../Audio/SnapBass/81A4-QBUF.wav
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=789 end=117839 sample=../Audio/SnapBass/82A#4-AKWL.wav
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=858 end=141909 sample=../Audio/SnapBass/83B4-6KHX.wav
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=677 sample=../Audio/SnapBass/84C5-8UKT.wav
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=668 sample=../Audio/SnapBass/85C#5-1YLA.wav
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=703 end=118980 sample=../Audio/SnapBass/86D5-1PRQ.wav
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=738 sample=../Audio/SnapBass/87D#5-DR9Q.wav
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=837 sample=../Audio/SnapBass/88E5-ICE1.wav
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=962 sample=../Audio/SnapBass/89F5-AB3M.wav
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=671 end=137253 sample=../Audio/SnapBass/90F#5-TTHB.wav
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=962 end=115184 sample=../Audio/SnapBass/91G5-30AF.wav
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=1041 end=118737 sample=../Audio/SnapBass/92G#5-Z14D.wav
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=594 end=119580 sample=../Audio/SnapBass/93A5-WUX1.wav
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=968 end=118269 sample=../Audio/SnapBass/94A#5-53NV.wav
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=755 end=140381 sample=../Audio/SnapBass/95B5-H65S.wav
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=669 end=121390 sample=../Audio/SnapBass/96C6-HT8Q.wav

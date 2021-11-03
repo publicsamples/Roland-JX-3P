@@ -1,0 +1,124 @@
+// this file was generated from Nerd Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=102283 loop_end=121393 sample=../Audio/Nerd Bass/(201324 21416)/0-U8VP.wav
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=104244 loop_end=142897 sample=../Audio/Nerd Bass/(201324 21416)/0-E3N5.wav
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=105714 loop_end=144631 sample=../Audio/Nerd Bass/(201324 21416)/0-GZK7.wav
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=106649 loop_end=144528 sample=../Audio/Nerd Bass/(201324 21416)/0-X2CC.wav
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=89788 loop_end=108206 sample=../Audio/Nerd Bass/(201324 21416)/0-L4US.wav
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=75046 loop_end=98565 sample=../Audio/Nerd Bass/(201324 21416)/0-XJ95.wav
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=106610 loop_end=140392 sample=../Audio/Nerd Bass/(201324 21416)/0-CTFN.wav
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=130644 loop_end=154331 sample=../Audio/Nerd Bass/(201324 21416)/0-9AFM.wav
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=77749 loop_end=99246 sample=../Audio/Nerd Bass/(201324 21416)/0-ICN0.wav
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=82296 loop_end=105833 sample=../Audio/Nerd Bass/(201324 21416)/0-BXSW.wav
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=112867 loop_end=132018 sample=../Audio/Nerd Bass/(201324 21416)/0-2UPA.wav
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=83396 loop_end=121718 sample=../Audio/Nerd Bass/(201324 21416)/0-OT2X.wav
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=119665 loop_end=149012 sample=../Audio/Nerd Bass/(201324 21416)/0-57CX.wav
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=94909 loop_end=152240 sample=../Audio/Nerd Bass/(201324 21416)/0-KI72.wav
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=88993 loop_end=127908 sample=../Audio/Nerd Bass/(201324 21416)/0-E6NW.wav
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=98894 loop_end=151115 sample=../Audio/Nerd Bass/(201324 21416)/0-YU91.wav
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=92757 loop_end=111173 sample=../Audio/Nerd Bass/(201324 21416)/0-L7KA.wav
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=83464 loop_end=106982 sample=../Audio/Nerd Bass/(201324 21416)/0-NRF7.wav
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=100042 loop_end=133822 sample=../Audio/Nerd Bass/(201324 21416)/0-Q8GH.wav
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=106236 loop_end=134934 sample=../Audio/Nerd Bass/(201324 21416)/0-47FG.wav
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=95983 loop_end=138546 sample=../Audio/Nerd Bass/(201324 21416)/0-YPUH.wav
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=75553 loop_end=114509 sample=../Audio/Nerd Bass/(201324 21416)/0-3J3S.wav
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=106912 loop_end=124529 sample=../Audio/Nerd Bass/(201324 21416)/0-2HE7.wav
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=107057 loop_end=132361 sample=../Audio/Nerd Bass/(201324 21416)/0-S0AL.wav
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=88419 loop_end=145062 sample=../Audio/Nerd Bass/(201324 21416)/0-QB03.wav
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=99882 loop_end=128544 sample=../Audio/Nerd Bass/(201324 21416)/0-BKVL.wav
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=93371 loop_end=138970 sample=../Audio/Nerd Bass/(201324 21416)/0-7KS9.wav
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=82089 loop_end=105617 sample=../Audio/Nerd Bass/(201324 21416)/0-5JOQ.wav
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=99114 loop_end=124027 sample=../Audio/Nerd Bass/(201324 21416)/0-K7U9.wav
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=81542 loop_end=105057 sample=../Audio/Nerd Bass/(201324 21416)/0-LS5O.wav
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=85198 loop_end=148899 sample=../Audio/Nerd Bass/(201324 21416)/0-9COP.wav
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=108160 loop_end=147102 sample=../Audio/Nerd Bass/(201324 21416)/0-PZ0Q.wav
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=100632 loop_end=149866 sample=../Audio/Nerd Bass/(201324 21416)/0-PYYW.wav
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=96767 loop_end=136535 sample=../Audio/Nerd Bass/(201324 21416)/0-QHJ7.wav
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=79982 loop_end=98940 sample=../Audio/Nerd Bass/(201324 21416)/0-8WMC.wav
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=101527 loop_end=145630 sample=../Audio/Nerd Bass/(201324 21416)/0-DALO.wav
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=82164 loop_end=109968 sample=../Audio/Nerd Bass/(201324 21416)/0-GORB.wav
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=79135 loop_end=112944 sample=../Audio/Nerd Bass/(201324 21416)/0-473A.wav
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=91148 loop_end=152251 sample=../Audio/Nerd Bass/(201324 21416)/0-33Q9.wav
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=102172 loop_end=124973 sample=../Audio/Nerd Bass/(201324 21416)/0-URAN.wav
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=114984 loop_end=134752 sample=../Audio/Nerd Bass/(201324 21416)/0-RKMD.wav
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=86686 loop_end=152122 sample=../Audio/Nerd Bass/(201324 21416)/0-P28L.wav
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=120043 loop_end=154539 sample=../Audio/Nerd Bass/(201324 21416)/0-H778.wav
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=116249 loop_end=150286 sample=../Audio/Nerd Bass/(201324 21416)/0-GAB6.wav
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=79982 loop_end=117488 sample=../Audio/Nerd Bass/(201324 21416)/0-JARF.wav
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=115474 loop_end=153314 sample=../Audio/Nerd Bass/(201324 21416)/0-JL7S.wav
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=121904 loop_end=156555 sample=../Audio/Nerd Bass/(201324 21416)/0-13NS.wav
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=92854 loop_end=127998 sample=../Audio/Nerd Bass/(201324 21416)/0-A0B2.wav
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=115588 loop_end=136988 sample=../Audio/Nerd Bass/(201324 21416)/0-HSEC.wav
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=115407 loop_end=155239 sample=../Audio/Nerd Bass/(201324 21416)/0-KGUD.wav
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=92889 loop_end=114084 sample=../Audio/Nerd Bass/(201324 21416)/0-RPXZ.wav
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=97680 loop_end=150669 sample=../Audio/Nerd Bass/(201324 21416)/0-CNW4.wav
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=126801 loop_end=156170 sample=../Audio/Nerd Bass/(201324 21416)/0-BLD4.wav
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=99054 loop_end=151302 sample=../Audio/Nerd Bass/(201324 21416)/0-J65Y.wav
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=115394 loop_end=132203 sample=../Audio/Nerd Bass/(201324 21416)/0-75AW.wav
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=87559 loop_end=146470 sample=../Audio/Nerd Bass/(201324 21416)/0-0PTD.wav
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=104224 loop_end=151860 sample=../Audio/Nerd Bass/(201324 21416)/0-TZWH.wav
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=87719 loop_end=116294 sample=../Audio/Nerd Bass/(201324 21416)/0-7CWN.wav
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=84244 loop_end=112925 sample=../Audio/Nerd Bass/(201324 21416)/0-CZDK.wav
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=115627 loop_end=136180 sample=../Audio/Nerd Bass/(201324 21416)/0-06S0.wav
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=129744 loop_end=153302 sample=../Audio/Nerd Bass/(201324 21416)/0-HFZH.wav

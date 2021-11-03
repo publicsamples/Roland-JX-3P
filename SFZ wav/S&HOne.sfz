@@ -1,0 +1,124 @@
+// this file was generated from S&HOne.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=250176 loop_end=292131 sample=../Audio/S&HOne/(201355 22411)/36C1-JVUS.wav
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=277565 loop_end=397645 sample=../Audio/S&HOne/(201355 22411)/37C#1-1K2Y.wav
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=245094 loop_end=285487 sample=../Audio/S&HOne/(201355 22411)/38D1-CVV6.wav
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=268321 loop_end=379851 sample=../Audio/S&HOne/(201355 22411)/39D#1-8ASU.wav
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=260246 loop_end=330069 sample=../Audio/S&HOne/(201355 22411)/40E1-UKUR.wav
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=242189 loop_end=373486 sample=../Audio/S&HOne/(201355 22411)/41F1-F2E6.wav
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=358662 loop_end=400769 sample=../Audio/S&HOne/(201355 22411)/42F#1-EFIP.wav
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=353287 loop_end=395290 sample=../Audio/S&HOne/(201355 22411)/43G1-T6T6.wav
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=243535 loop_end=356503 sample=../Audio/S&HOne/(201355 22411)/44G#1-QLJB.wav
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=317958 loop_end=359803 sample=../Audio/S&HOne/(201355 22411)/45A1-FRO2.wav
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=314942 loop_end=357475 sample=../Audio/S&HOne/(201355 22411)/46A#1-P7LD.wav
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=273359 loop_end=330352 sample=../Audio/S&HOne/(201355 22411)/47B1-FDPL.wav
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=266844 loop_end=309474 sample=../Audio/S&HOne/(201355 22411)/48C2-9DFT.wav
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=260963 loop_end=304392 sample=../Audio/S&HOne/(201355 22411)/49C#2-L0QE.wav
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=313956 loop_end=355854 sample=../Audio/S&HOne/(201355 22411)/50D2-GFU4.wav
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=225089 loop_end=267192 sample=../Audio/S&HOne/(201355 22411)/51D#2-Y5SO.wav
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=301875 loop_end=386459 sample=../Audio/S&HOne/(201355 22411)/52E2-S7D2.wav
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=269366 loop_end=311439 sample=../Audio/S&HOne/(201355 22411)/53F2-4J0Y.wav
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=233732 loop_end=392101 sample=../Audio/S&HOne/(201355 22411)/54F#2-0O7Y.wav
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=225190 loop_end=399523 sample=../Audio/S&HOne/(201355 22411)/55G2-ZT72.wav
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=225631 loop_end=268896 sample=../Audio/S&HOne/(201355 22411)/56G#2-QFUI.wav
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=321097 loop_end=398948 sample=../Audio/S&HOne/(201355 22411)/57A2-LOO9.wav
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=245419 loop_end=384782 sample=../Audio/S&HOne/(201355 22411)/58A#2-3TB1.wav
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=357738 loop_end=394295 sample=../Audio/S&HOne/(201355 22411)/59B2-QDGQ.wav
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=277826 loop_end=354791 sample=../Audio/S&HOne/(201355 22411)/60C3-UI85.wav
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=279333 loop_end=377839 sample=../Audio/S&HOne/(201355 22411)/61C#3-16BV.wav
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=297033 loop_end=401318 sample=../Audio/S&HOne/(201355 22411)/62D3-4I6O.wav
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=326531 loop_end=383285 sample=../Audio/S&HOne/(201355 22411)/63D#3-8E1Q.wav
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=336362 loop_end=374756 sample=../Audio/S&HOne/(201355 22411)/64E3-385N.wav
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=318126 loop_end=359181 sample=../Audio/S&HOne/(201355 22411)/65F3-D79N.wav
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=277218 loop_end=332480 sample=../Audio/S&HOne/(201355 22411)/66F#3-MB7H.wav
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=341660 loop_end=382641 sample=../Audio/S&HOne/(201355 22411)/67G3-MXOO.wav
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=263857 loop_end=304890 sample=../Audio/S&HOne/(201355 22411)/68G#3-LET9.wav
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=225481 loop_end=280600 sample=../Audio/S&HOne/(201355 22411)/69A3-ZGZY.wav
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=286061 loop_end=326313 sample=../Audio/S&HOne/(201355 22411)/70A#3-8J4I.wav
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=273084 loop_end=385805 sample=../Audio/S&HOne/(201355 22411)/71B3-SA7Y.wav
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=320082 loop_end=390607 sample=../Audio/S&HOne/(201355 22411)/72C4-2PR8.wav
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=230124 loop_end=271147 sample=../Audio/S&HOne/(201355 22411)/73C#4-B9YY.wav
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=331195 loop_end=386351 sample=../Audio/S&HOne/(201355 22411)/74D4-V5Q6.wav
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=261838 loop_end=331438 sample=../Audio/S&HOne/(201355 22411)/75D#4-8EGR.wav
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=243380 loop_end=376955 sample=../Audio/S&HOne/(201355 22411)/76E4-CBAA.wav
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=282135 loop_end=337952 sample=../Audio/S&HOne/(201355 22411)/77F4-AECQ.wav
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=278166 loop_end=347825 sample=../Audio/S&HOne/(201355 22411)/78F#4-G28G.wav
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=324393 loop_end=380995 sample=../Audio/S&HOne/(201355 22411)/79G4-E8FI.wav
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=235168 loop_end=375389 sample=../Audio/S&HOne/(201355 22411)/80G#4-8F17.wav
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=238212 loop_end=307815 sample=../Audio/S&HOne/(201355 22411)/81A4-QMN8.wav
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=277013 loop_end=331488 sample=../Audio/S&HOne/(201355 22411)/82A#4-VGWG.wav
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=274097 loop_end=317361 sample=../Audio/S&HOne/(201355 22411)/83B4-LWZ6.wav
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=270326 loop_end=308281 sample=../Audio/S&HOne/(201355 22411)/84C5-8U58.wav
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=320456 loop_end=362860 sample=../Audio/S&HOne/(201355 22411)/85C#5-0KIR.wav
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=224370 loop_end=267039 sample=../Audio/S&HOne/(201355 22411)/86D5-HT6T.wav
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=308438 loop_end=392184 sample=../Audio/S&HOne/(201355 22411)/87D#5-57Y9.wav
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=267964 loop_end=309897 sample=../Audio/S&HOne/(201355 22411)/88E5-1JRZ.wav
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=300401 loop_end=376141 sample=../Audio/S&HOne/(201355 22411)/89F5-QQ4F.wav
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=227437 loop_end=400044 sample=../Audio/S&HOne/(201355 22411)/90F#5-HBL3.wav
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=225392 loop_end=267293 sample=../Audio/S&HOne/(201355 22411)/91G5-94KJ.wav
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=324071 loop_end=399734 sample=../Audio/S&HOne/(201355 22411)/92G#5-LWMK.wav
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=248513 loop_end=388012 sample=../Audio/S&HOne/(201355 22411)/93A5-DIA8.wav
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=294008 loop_end=370573 sample=../Audio/S&HOne/(201355 22411)/94A#5-ROA1.wav
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=290432 loop_end=367130 sample=../Audio/S&HOne/(201355 22411)/95B5-7QP8.wav
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=260230 loop_end=393322 sample=../Audio/S&HOne/(201355 22411)/96C6-C8PG.wav

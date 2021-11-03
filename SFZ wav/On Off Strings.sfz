@@ -1,0 +1,185 @@
+// this file was generated from On Off Strings.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1425 end=529335 sample=../Audio/On Off Strings/0-8SEM.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=127 end=552171 sample=../Audio/On Off Strings/0-FQ08.wav
+<group> key=37 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=972 sample=../Audio/On Off Strings/0-NAQA.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=122 end=537147 sample=../Audio/On Off Strings/0-Z7FM.wav
+<group> key=38 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1302 end=533120 sample=../Audio/On Off Strings/0-G2PT.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=127 end=558478 sample=../Audio/On Off Strings/0-YFON.wav
+<group> key=39 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1072 sample=../Audio/On Off Strings/0-Y6JP.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1636 end=537030 sample=../Audio/On Off Strings/0-LWGB.wav
+<group> key=40 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=959 end=519186 sample=../Audio/On Off Strings/0-XGK2.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1391 sample=../Audio/On Off Strings/0-NAV1.wav
+<group> key=41 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1299 end=523008 sample=../Audio/On Off Strings/0-0VJ7.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1015 sample=../Audio/On Off Strings/0-K4YV.wav
+<group> key=42 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=976 end=647313 sample=../Audio/On Off Strings/0-ZNEP.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1313 end=532527 sample=../Audio/On Off Strings/0-1HDG.wav
+<group> key=43 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1088 end=525431 sample=../Audio/On Off Strings/0-FVTD.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1214 end=533916 sample=../Audio/On Off Strings/0-OP1Q.wav
+<group> key=44 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1010 sample=../Audio/On Off Strings/0-C3WL.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=118 end=532073 sample=../Audio/On Off Strings/0-SXUE.wav
+<group> key=45 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1182 end=676875 sample=../Audio/On Off Strings/0-NY4M.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1263 end=538259 sample=../Audio/On Off Strings/0-PJN4.wav
+<group> key=46 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1559 end=526303 sample=../Audio/On Off Strings/0-LJT1.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=30 end=539491 sample=../Audio/On Off Strings/0-HVN7.wav
+<group> key=47 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1652 end=521625 sample=../Audio/On Off Strings/0-Z0BN.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=79 end=552401 sample=../Audio/On Off Strings/0-GD4J.wav
+<group> key=48 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1227 end=525348 sample=../Audio/On Off Strings/0-U7VG.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=126 end=530413 sample=../Audio/On Off Strings/0-ESOU.wav
+<group> key=49 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1240 sample=../Audio/On Off Strings/0-XDB0.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=125 end=547262 sample=../Audio/On Off Strings/0-1YWK.wav
+<group> key=50 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1176 sample=../Audio/On Off Strings/0-X0UG.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=112 sample=../Audio/On Off Strings/0-L189.wav
+<group> key=51 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1093 end=668433 sample=../Audio/On Off Strings/0-861L.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1451 end=521892 sample=../Audio/On Off Strings/0-E70F.wav
+<group> key=52 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1099 end=525227 sample=../Audio/On Off Strings/0-3ZOM.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=115 end=540269 sample=../Audio/On Off Strings/0-Y0IY.wav
+<group> key=53 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1453 sample=../Audio/On Off Strings/0-1G3Y.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1429 end=554910 sample=../Audio/On Off Strings/0-CRTX.wav
+<group> key=54 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1221 sample=../Audio/On Off Strings/0-MT82.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=54 end=558270 sample=../Audio/On Off Strings/0-RIA1.wav
+<group> key=55 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1233 sample=../Audio/On Off Strings/0-TQSS.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=112 end=549442 sample=../Audio/On Off Strings/0-SH4Z.wav
+<group> key=56 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1353 end=523636 sample=../Audio/On Off Strings/0-YRDJ.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1211 end=529929 sample=../Audio/On Off Strings/0-TADT.wav
+<group> key=57 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1175 sample=../Audio/On Off Strings/0-FSOK.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1232 sample=../Audio/On Off Strings/0-H6NP.wav
+<group> key=58 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1134 end=525614 sample=../Audio/On Off Strings/0-GPUS.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=127 end=564654 sample=../Audio/On Off Strings/0-ZDDV.wav
+<group> key=59 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1423 sample=../Audio/On Off Strings/0-8PU4.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1310 end=550400 sample=../Audio/On Off Strings/0-SUHF.wav
+<group> key=60 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1501 end=531467 sample=../Audio/On Off Strings/0-GSKD.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1580 end=532864 sample=../Audio/On Off Strings/0-PA5S.wav
+<group> key=61 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1009 sample=../Audio/On Off Strings/0-3ENJ.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=109 end=575094 sample=../Audio/On Off Strings/0-LDSO.wav
+<group> key=62 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1327 end=576206 sample=../Audio/On Off Strings/0-6U2L.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=125 sample=../Audio/On Off Strings/0-UXOK.wav
+<group> key=63 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1589 sample=../Audio/On Off Strings/0-U2XY.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=116 end=535837 sample=../Audio/On Off Strings/0-Y0SF.wav
+<group> key=64 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1350 end=590530 sample=../Audio/On Off Strings/0-XNAU.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=103 end=550178 sample=../Audio/On Off Strings/0-D013.wav
+<group> key=65 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1663 end=583724 sample=../Audio/On Off Strings/0-Y8UJ.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=127 end=552741 sample=../Audio/On Off Strings/0-ODPT.wav
+<group> key=66 
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1244 sample=../Audio/On Off Strings/0-01BX.wav
+<group>lokey=66 hikey=67 pitch_keycenter=66 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1121 end=526735 sample=../Audio/On Off Strings/0-ELL4.wav
+<group> key=67 
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=124 end=568206 sample=../Audio/On Off Strings/0-KSR5.wav
+<group> key=68 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1402 end=606081 sample=../Audio/On Off Strings/0-XXYS.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=127 end=541231 sample=../Audio/On Off Strings/0-D5XC.wav
+<group> key=69 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1596 sample=../Audio/On Off Strings/0-M5R7.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=125 end=628159 sample=../Audio/On Off Strings/0-NWR7.wav
+<group> key=70 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1336 end=528721 sample=../Audio/On Off Strings/0-OQXW.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=114 sample=../Audio/On Off Strings/0-IJDK.wav
+<group> key=71 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1325 end=823399 sample=../Audio/On Off Strings/0-JBWO.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1492 end=566253 sample=../Audio/On Off Strings/0-VDPG.wav
+<group> key=72 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1522 end=532736 sample=../Audio/On Off Strings/0-XL6I.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=123 end=566861 sample=../Audio/On Off Strings/0-04HE.wav
+<group> key=73 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1115 end=534784 sample=../Audio/On Off Strings/0-RZ52.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=892 end=564505 sample=../Audio/On Off Strings/0-X2G8.wav
+<group> key=74 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1142 end=535357 sample=../Audio/On Off Strings/0-2HJS.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=121 end=557696 sample=../Audio/On Off Strings/0-52BO.wav
+<group> key=75 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1640 end=603779 sample=../Audio/On Off Strings/0-KG2S.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=32 end=547279 sample=../Audio/On Off Strings/0-WDG0.wav
+<group> key=76 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1389 sample=../Audio/On Off Strings/0-I9Z7.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=118 end=545256 sample=../Audio/On Off Strings/0-AEKR.wav
+<group> key=77 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1407 sample=../Audio/On Off Strings/0-ACWV.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=125 end=544880 sample=../Audio/On Off Strings/0-CE3G.wav
+<group> key=78 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1535 end=697803 sample=../Audio/On Off Strings/0-TLUW.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1143 end=571320 sample=../Audio/On Off Strings/0-R29X.wav
+<group> key=79 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1374 end=656862 sample=../Audio/On Off Strings/0-XPKW.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=127 end=549797 sample=../Audio/On Off Strings/0-H8PU.wav
+<group> key=80 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1279 end=576718 sample=../Audio/On Off Strings/0-0GXN.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=98 end=634811 sample=../Audio/On Off Strings/0-5WXC.wav
+<group> key=81 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1206 sample=../Audio/On Off Strings/0-PZ55.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1406 end=536756 sample=../Audio/On Off Strings/0-1Y8P.wav
+<group> key=82 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1663 end=575716 sample=../Audio/On Off Strings/0-3GJU.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=125 end=551012 sample=../Audio/On Off Strings/0-MYHA.wav
+<group> key=83 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1397 sample=../Audio/On Off Strings/0-6F1R.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=101 end=587519 sample=../Audio/On Off Strings/0-0JOE.wav
+<group> key=84 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1634 end=538496 sample=../Audio/On Off Strings/0-B5L8.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1530 end=555479 sample=../Audio/On Off Strings/0-VPN9.wav
+<group> key=85 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1106 sample=../Audio/On Off Strings/0-I1YZ.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=30 end=557860 sample=../Audio/On Off Strings/0-OX7S.wav
+<group> key=86 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1532 end=625701 sample=../Audio/On Off Strings/0-2QH4.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=125 end=555629 sample=../Audio/On Off Strings/0-6LPG.wav
+<group> key=87 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1390 sample=../Audio/On Off Strings/0-OR1J.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1255 sample=../Audio/On Off Strings/0-V11T.wav
+<group> key=88 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1271 end=609785 sample=../Audio/On Off Strings/0-U0MY.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1143 sample=../Audio/On Off Strings/0-MCKS.wav
+<group> key=89 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1137 end=534914 sample=../Audio/On Off Strings/0-52BI.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=126 end=535690 sample=../Audio/On Off Strings/0-DOFA.wav
+<group> key=90 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1663 sample=../Audio/On Off Strings/0-LWX2.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=126 end=551503 sample=../Audio/On Off Strings/0-BVVN.wav
+<group> key=91 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1385 end=535965 sample=../Audio/On Off Strings/0-NLH8.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=122 sample=../Audio/On Off Strings/0-TZKY.wav
+<group> key=92 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1132 end=633671 sample=../Audio/On Off Strings/0-O1XW.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=125 end=662612 sample=../Audio/On Off Strings/0-OSEZ.wav
+<group> key=93 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1535 end=532998 sample=../Audio/On Off Strings/0-OFSI.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=124 end=548893 sample=../Audio/On Off Strings/0-97AK.wav
+<group> key=94 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1251 end=533760 sample=../Audio/On Off Strings/0-OWKR.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1145 end=551553 sample=../Audio/On Off Strings/0-3J35.wav
+<group> key=95 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1407 end=540312 sample=../Audio/On Off Strings/0-04IP.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=1639 end=552967 sample=../Audio/On Off Strings/0-H7EE.wav
+<group> key=96 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1263 end=536114 sample=../Audio/On Off Strings/0-TSM7.wav
+	<region> lovel=065 hivel=127  amp_veltrack=0  offset=3 sample=../Audio/On Off Strings/0-W5R4.wav

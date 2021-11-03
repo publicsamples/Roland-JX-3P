@@ -1,0 +1,124 @@
+// this file was generated from Rising Damp.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=317867 loop_end=387485 sample=../Audio/Rising Damp/(201324 211945)/0-TWMO.wav
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=302548 loop_end=387586 sample=../Audio/Rising Damp/(201324 211945)/0-1W7N.wav
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=221076 loop_end=382826 sample=../Audio/Rising Damp/(201324 211945)/0-110R.wav
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=245291 loop_end=322197 sample=../Audio/Rising Damp/(201324 211945)/0-0HG2.wav
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=289723 loop_end=381816 sample=../Audio/Rising Damp/(201324 211945)/0-49R6.wav
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=339911 loop_end=385928 sample=../Audio/Rising Damp/(201324 211945)/0-3R2G.wav
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=284161 loop_end=384545 sample=../Audio/Rising Damp/(201324 211945)/0-IG0U.wav
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=223541 loop_end=315558 sample=../Audio/Rising Damp/(201324 211945)/0-LBT8.wav
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=234167 loop_end=341658 sample=../Audio/Rising Damp/(201324 211945)/0-A0D0.wav
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=233293 loop_end=279557 sample=../Audio/Rising Damp/(201324 211945)/0-L22A.wav
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=238534 loop_end=369533 sample=../Audio/Rising Damp/(201324 211945)/0-AG6N.wav
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=225010 loop_end=394930 sample=../Audio/Rising Damp/(201324 211945)/0-09EO.wav
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=325578 loop_end=395193 sample=../Audio/Rising Damp/(201324 211945)/0-W6QE.wav
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=231833 loop_end=301403 sample=../Audio/Rising Damp/(201324 211945)/0-8SMU.wav
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=241387 loop_end=380632 sample=../Audio/Rising Damp/(201324 211945)/0-O2X8.wav
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=312138 loop_end=397070 sample=../Audio/Rising Damp/(201324 211945)/0-4HQC.wav
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=260861 loop_end=400070 sample=../Audio/Rising Damp/(201324 211945)/0-63G6.wav
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=336615 loop_end=390810 sample=../Audio/Rising Damp/(201324 211945)/0-4DAR.wav
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=260677 loop_end=400145 sample=../Audio/Rising Damp/(201324 211945)/0-I8AI.wav
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=317105 loop_end=371768 sample=../Audio/Rising Damp/(201324 211945)/0-A5WC.wav
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=241661 loop_end=374081 sample=../Audio/Rising Damp/(201324 211945)/0-7Z05.wav
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=329812 loop_end=368768 sample=../Audio/Rising Damp/(201324 211945)/0-7L3U.wav
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=309027 loop_end=371457 sample=../Audio/Rising Damp/(201324 211945)/0-Z5MA.wav
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=277153 loop_end=340054 sample=../Audio/Rising Damp/(201324 211945)/0-DPLK.wav
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=224741 loop_end=358160 sample=../Audio/Rising Damp/(201324 211945)/0-19B2.wav
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=348790 loop_end=396454 sample=../Audio/Rising Damp/(201324 211945)/0-BH50.wav
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=262935 loop_end=396391 sample=../Audio/Rising Damp/(201324 211945)/0-J9JY.wav
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=283655 loop_end=393264 sample=../Audio/Rising Damp/(201324 211945)/0-97V5.wav
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=250917 loop_end=337033 sample=../Audio/Rising Damp/(201324 211945)/0-U5QM.wav
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=266604 loop_end=353256 sample=../Audio/Rising Damp/(201324 211945)/0-XEEM.wav
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=224830 loop_end=382154 sample=../Audio/Rising Damp/(201324 211945)/0-38R1.wav
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=321234 loop_end=391832 sample=../Audio/Rising Damp/(201324 211945)/0-ZFK7.wav
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=303886 loop_end=374405 sample=../Audio/Rising Damp/(201324 211945)/0-4TB4.wav
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=274116 loop_end=399914 sample=../Audio/Rising Damp/(201324 211945)/0-85SU.wav
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=279763 loop_end=390261 sample=../Audio/Rising Damp/(201324 211945)/0-KN4M.wav
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=226000 loop_end=368794 sample=../Audio/Rising Damp/(201324 211945)/0-W63M.wav
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=237938 loop_end=388222 sample=../Audio/Rising Damp/(201324 211945)/0-T2VV.wav
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=240912 loop_end=391447 sample=../Audio/Rising Damp/(201324 211945)/0-11JG.wav
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=271220 loop_end=390236 sample=../Audio/Rising Damp/(201324 211945)/0-PHP6.wav
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=282615 loop_end=345858 sample=../Audio/Rising Damp/(201324 211945)/0-6061.wav
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=242827 loop_end=393260 sample=../Audio/Rising Damp/(201324 211945)/0-0S6V.wav
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=236800 loop_end=387356 sample=../Audio/Rising Damp/(201324 211945)/0-PSBL.wav
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=220585 loop_end=371599 sample=../Audio/Rising Damp/(201324 211945)/0-NV39.wav
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=272581 loop_end=336103 sample=../Audio/Rising Damp/(201324 211945)/0-LC0C.wav
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=270829 loop_end=375074 sample=../Audio/Rising Damp/(201324 211945)/0-UU7N.wav
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=249138 loop_end=360733 sample=../Audio/Rising Damp/(201324 211945)/0-MJ01.wav
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=224981 loop_end=344539 sample=../Audio/Rising Damp/(201324 211945)/0-G80T.wav
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=255471 loop_end=383944 sample=../Audio/Rising Damp/(201324 211945)/0-4JWR.wav
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=245370 loop_end=293969 sample=../Audio/Rising Damp/(201324 211945)/0-6Z5F.wav
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=257766 loop_end=306450 sample=../Audio/Rising Damp/(201324 211945)/0-RCBL.wav
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=293142 loop_end=341155 sample=../Audio/Rising Damp/(201324 211945)/0-0M51.wav
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=277597 loop_end=325997 sample=../Audio/Rising Damp/(201324 211945)/0-1ZT4.wav
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=307484 loop_end=355666 sample=../Audio/Rising Damp/(201324 211945)/0-T8JV.wav
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=298333 loop_end=346110 sample=../Audio/Rising Damp/(201324 211945)/0-E434.wav
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=269321 loop_end=316858 sample=../Audio/Rising Damp/(201324 211945)/0-IPAV.wav
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=280859 loop_end=385306 sample=../Audio/Rising Damp/(201324 211945)/0-Q8FP.wav
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=219780 loop_end=276385 sample=../Audio/Rising Damp/(201324 211945)/0-RLX9.wav
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=318644 loop_end=382686 sample=../Audio/Rising Damp/(201324 211945)/0-T0GJ.wav
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=286974 loop_end=343381 sample=../Audio/Rising Damp/(201324 211945)/0-OW9W.wav
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=228678 loop_end=357693 sample=../Audio/Rising Damp/(201324 211945)/0-QY56.wav
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=247105 loop_end=376104 sample=../Audio/Rising Damp/(201324 211945)/0-ME1L.wav
